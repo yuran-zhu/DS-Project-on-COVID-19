@@ -1,0 +1,3074 @@
+"region","subregion","full.name","fips"
+"alabama","autauga","alabama,autauga",1001
+"alabama","baldwin","alabama,baldwin",1003
+"alabama","barbour","alabama,barbour",1005
+"alabama","bibb","alabama,bibb",1007
+"alabama","blount","alabama,blount",1009
+"alabama","bullock","alabama,bullock",1011
+"alabama","butler","alabama,butler",1013
+"alabama","calhoun","alabama,calhoun",1015
+"alabama","chambers","alabama,chambers",1017
+"alabama","cherokee","alabama,cherokee",1019
+"alabama","chilton","alabama,chilton",1021
+"alabama","choctaw","alabama,choctaw",1023
+"alabama","clarke","alabama,clarke",1025
+"alabama","clay","alabama,clay",1027
+"alabama","cleburne","alabama,cleburne",1029
+"alabama","coffee","alabama,coffee",1031
+"alabama","colbert","alabama,colbert",1033
+"alabama","conecuh","alabama,conecuh",1035
+"alabama","coosa","alabama,coosa",1037
+"alabama","covington","alabama,covington",1039
+"alabama","crenshaw","alabama,crenshaw",1041
+"alabama","cullman","alabama,cullman",1043
+"alabama","dale","alabama,dale",1045
+"alabama","dallas","alabama,dallas",1047
+"alabama","de kalb","alabama,de kalb",1049
+"alabama","elmore","alabama,elmore",1051
+"alabama","escambia","alabama,escambia",1053
+"alabama","etowah","alabama,etowah",1055
+"alabama","fayette","alabama,fayette",1057
+"alabama","franklin","alabama,franklin",1059
+"alabama","geneva","alabama,geneva",1061
+"alabama","greene","alabama,greene",1063
+"alabama","hale","alabama,hale",1065
+"alabama","henry","alabama,henry",1067
+"alabama","houston","alabama,houston",1069
+"alabama","jackson","alabama,jackson",1071
+"alabama","jefferson","alabama,jefferson",1073
+"alabama","lamar","alabama,lamar",1075
+"alabama","lauderdale","alabama,lauderdale",1077
+"alabama","lawrence","alabama,lawrence",1079
+"alabama","lee","alabama,lee",1081
+"alabama","limestone","alabama,limestone",1083
+"alabama","lowndes","alabama,lowndes",1085
+"alabama","macon","alabama,macon",1087
+"alabama","madison","alabama,madison",1089
+"alabama","marengo","alabama,marengo",1091
+"alabama","marion","alabama,marion",1093
+"alabama","marshall","alabama,marshall",1095
+"alabama","mobile","alabama,mobile",1097
+"alabama","monroe","alabama,monroe",1099
+"alabama","montgomery","alabama,montgomery",1101
+"alabama","morgan","alabama,morgan",1103
+"alabama","perry","alabama,perry",1105
+"alabama","pickens","alabama,pickens",1107
+"alabama","pike","alabama,pike",1109
+"alabama","randolph","alabama,randolph",1111
+"alabama","russell","alabama,russell",1113
+"alabama","shelby","alabama,shelby",1117
+"alabama","st clair","alabama,st clair",1115
+"alabama","sumter","alabama,sumter",1119
+"alabama","talladega","alabama,talladega",1121
+"alabama","tallapoosa","alabama,tallapoosa",1123
+"alabama","tuscaloosa","alabama,tuscaloosa",1125
+"alabama","walker","alabama,walker",1127
+"alabama","washington","alabama,washington",1129
+"alabama","wilcox","alabama,wilcox",1131
+"alabama","winston","alabama,winston",1133
+"arizona","apache","arizona,apache",4001
+"arizona","cochise","arizona,cochise",4003
+"arizona","coconino","arizona,coconino",4005
+"arizona","gila","arizona,gila",4007
+"arizona","graham","arizona,graham",4009
+"arizona","greenlee","arizona,greenlee",4011
+"arizona","maricopa","arizona,maricopa",4013
+"arizona","mohave","arizona,mohave",4015
+"arizona","navajo","arizona,navajo",4017
+"arizona","pima","arizona,pima",4019
+"arizona","pinal","arizona,pinal",4021
+"arizona","santa cruz","arizona,santa cruz",4023
+"arizona","yavapai","arizona,yavapai",4025
+"arizona","yuma","arizona,yuma",4027
+"arkansas","arkansas","arkansas,arkansas",5001
+"arkansas","ashley","arkansas,ashley",5003
+"arkansas","baxter","arkansas,baxter",5005
+"arkansas","benton","arkansas,benton",5007
+"arkansas","boone","arkansas,boone",5009
+"arkansas","bradley","arkansas,bradley",5011
+"arkansas","calhoun","arkansas,calhoun",5013
+"arkansas","carroll","arkansas,carroll",5015
+"arkansas","chicot","arkansas,chicot",5017
+"arkansas","clark","arkansas,clark",5019
+"arkansas","clay","arkansas,clay",5021
+"arkansas","cleburne","arkansas,cleburne",5023
+"arkansas","cleveland","arkansas,cleveland",5025
+"arkansas","columbia","arkansas,columbia",5027
+"arkansas","conway","arkansas,conway",5029
+"arkansas","craighead","arkansas,craighead",5031
+"arkansas","crawford","arkansas,crawford",5033
+"arkansas","crittenden","arkansas,crittenden",5035
+"arkansas","cross","arkansas,cross",5037
+"arkansas","dallas","arkansas,dallas",5039
+"arkansas","desha","arkansas,desha",5041
+"arkansas","drew","arkansas,drew",5043
+"arkansas","faulkner","arkansas,faulkner",5045
+"arkansas","franklin","arkansas,franklin",5047
+"arkansas","fulton","arkansas,fulton",5049
+"arkansas","garland","arkansas,garland",5051
+"arkansas","grant","arkansas,grant",5053
+"arkansas","greene","arkansas,greene",5055
+"arkansas","hempstead","arkansas,hempstead",5057
+"arkansas","hot spring","arkansas,hot spring",5059
+"arkansas","howard","arkansas,howard",5061
+"arkansas","independence","arkansas,independence",5063
+"arkansas","izard","arkansas,izard",5065
+"arkansas","jackson","arkansas,jackson",5067
+"arkansas","jefferson","arkansas,jefferson",5069
+"arkansas","johnson","arkansas,johnson",5071
+"arkansas","lafayette","arkansas,lafayette",5073
+"arkansas","lawrence","arkansas,lawrence",5075
+"arkansas","lee","arkansas,lee",5077
+"arkansas","lincoln","arkansas,lincoln",5079
+"arkansas","little river","arkansas,little river",5081
+"arkansas","logan","arkansas,logan",5083
+"arkansas","lonoke","arkansas,lonoke",5085
+"arkansas","madison","arkansas,madison",5087
+"arkansas","marion","arkansas,marion",5089
+"arkansas","miller","arkansas,miller",5091
+"arkansas","mississippi","arkansas,mississippi",5093
+"arkansas","monroe","arkansas,monroe",5095
+"arkansas","montgomery","arkansas,montgomery",5097
+"arkansas","nevada","arkansas,nevada",5099
+"arkansas","newton","arkansas,newton",5101
+"arkansas","ouachita","arkansas,ouachita",5103
+"arkansas","perry","arkansas,perry",5105
+"arkansas","phillips","arkansas,phillips",5107
+"arkansas","pike","arkansas,pike",5109
+"arkansas","poinsett","arkansas,poinsett",5111
+"arkansas","polk","arkansas,polk",5113
+"arkansas","pope","arkansas,pope",5115
+"arkansas","prairie","arkansas,prairie",5117
+"arkansas","pulaski","arkansas,pulaski",5119
+"arkansas","randolph","arkansas,randolph",5121
+"arkansas","saline","arkansas,saline",5125
+"arkansas","scott","arkansas,scott",5127
+"arkansas","searcy","arkansas,searcy",5129
+"arkansas","sebastian","arkansas,sebastian",5131
+"arkansas","sevier","arkansas,sevier",5133
+"arkansas","sharp","arkansas,sharp",5135
+"arkansas","st francis","arkansas,st francis",5123
+"arkansas","stone","arkansas,stone",5137
+"arkansas","union","arkansas,union",5139
+"arkansas","van buren","arkansas,van buren",5141
+"arkansas","washington","arkansas,washington",5143
+"arkansas","white","arkansas,white",5145
+"arkansas","woodruff","arkansas,woodruff",5147
+"arkansas","yell","arkansas,yell",5149
+"california","alameda","california,alameda",6001
+"california","alpine","california,alpine",6003
+"california","amador","california,amador",6005
+"california","butte","california,butte",6007
+"california","calaveras","california,calaveras",6009
+"california","colusa","california,colusa",6011
+"california","contra costa","california,contra costa",6013
+"california","del norte","california,del norte",6015
+"california","el dorado","california,el dorado",6017
+"california","fresno","california,fresno",6019
+"california","glenn","california,glenn",6021
+"california","humboldt","california,humboldt",6023
+"california","imperial","california,imperial",6025
+"california","inyo","california,inyo",6027
+"california","kern","california,kern",6029
+"california","kings","california,kings",6031
+"california","lake","california,lake",6033
+"california","lassen","california,lassen",6035
+"california","los angeles","california,los angeles",6037
+"california","madera","california,madera",6039
+"california","marin","california,marin",6041
+"california","mariposa","california,mariposa",6043
+"california","mendocino","california,mendocino",6045
+"california","merced","california,merced",6047
+"california","modoc","california,modoc",6049
+"california","mono","california,mono",6051
+"california","monterey","california,monterey",6053
+"california","napa","california,napa",6055
+"california","nevada","california,nevada",6057
+"california","orange","california,orange",6059
+"california","placer","california,placer",6061
+"california","plumas","california,plumas",6063
+"california","riverside","california,riverside",6065
+"california","sacramento","california,sacramento",6067
+"california","san benito","california,san benito",6069
+"california","san bernardino","california,san bernardino",6071
+"california","san diego","california,san diego",6073
+"california","san francisco","california,san francisco",6075
+"california","san joaquin","california,san joaquin",6077
+"california","san luis obispo","california,san luis obispo",6079
+"california","san mateo","california,san mateo",6081
+"california","santa barbara","california,santa barbara",6083
+"california","santa clara","california,santa clara",6085
+"california","santa cruz","california,santa cruz",6087
+"california","shasta","california,shasta",6089
+"california","sierra","california,sierra",6091
+"california","siskiyou","california,siskiyou",6093
+"california","solano","california,solano",6095
+"california","sonoma","california,sonoma",6097
+"california","stanislaus","california,stanislaus",6099
+"california","sutter","california,sutter",6101
+"california","tehama","california,tehama",6103
+"california","trinity","california,trinity",6105
+"california","tulare","california,tulare",6107
+"california","tuolumne","california,tuolumne",6109
+"california","ventura","california,ventura",6111
+"california","yolo","california,yolo",6113
+"california","yuba","california,yuba",6115
+"colorado","adams","colorado,adams",8001
+"colorado","alamosa","colorado,alamosa",8003
+"colorado","arapahoe","colorado,arapahoe",8005
+"colorado","archuleta","colorado,archuleta",8007
+"colorado","baca","colorado,baca",8009
+"colorado","bent","colorado,bent",8011
+"colorado","boulder","colorado,boulder",8013
+"colorado","chaffee","colorado,chaffee",8015
+"colorado","cheyenne","colorado,cheyenne",8017
+"colorado","clear creek","colorado,clear creek",8019
+"colorado","conejos","colorado,conejos",8021
+"colorado","costilla","colorado,costilla",8023
+"colorado","crowley","colorado,crowley",8025
+"colorado","custer","colorado,custer",8027
+"colorado","delta","colorado,delta",8029
+"colorado","denver","colorado,denver",8031
+"colorado","dolores","colorado,dolores",8033
+"colorado","douglas","colorado,douglas",8035
+"colorado","eagle","colorado,eagle",8037
+"colorado","el paso","colorado,el paso",8041
+"colorado","elbert","colorado,elbert",8039
+"colorado","fremont","colorado,fremont",8043
+"colorado","garfield","colorado,garfield",8045
+"colorado","gilpin","colorado,gilpin",8047
+"colorado","grand","colorado,grand",8049
+"colorado","gunnison","colorado,gunnison",8051
+"colorado","hinsdale","colorado,hinsdale",8053
+"colorado","huerfano","colorado,huerfano",8055
+"colorado","jackson","colorado,jackson",8057
+"colorado","jefferson","colorado,jefferson",8059
+"colorado","kiowa","colorado,kiowa",8061
+"colorado","kit carson","colorado,kit carson",8063
+"colorado","la plata","colorado,la plata",8067
+"colorado","lake","colorado,lake",8065
+"colorado","larimer","colorado,larimer",8069
+"colorado","las animas","colorado,las animas",8071
+"colorado","lincoln","colorado,lincoln",8073
+"colorado","logan","colorado,logan",8075
+"colorado","mesa","colorado,mesa",8077
+"colorado","mineral","colorado,mineral",8079
+"colorado","moffat","colorado,moffat",8081
+"colorado","montezuma","colorado,montezuma",8083
+"colorado","montrose","colorado,montrose",8085
+"colorado","morgan","colorado,morgan",8087
+"colorado","otero","colorado,otero",8089
+"colorado","ouray","colorado,ouray",8091
+"colorado","park","colorado,park",8093
+"colorado","phillips","colorado,phillips",8095
+"colorado","pitkin","colorado,pitkin",8097
+"colorado","prowers","colorado,prowers",8099
+"colorado","pueblo","colorado,pueblo",8101
+"colorado","rio blanco","colorado,rio blanco",8103
+"colorado","rio grande","colorado,rio grande",8105
+"colorado","routt","colorado,routt",8107
+"colorado","saguache","colorado,saguache",8109
+"colorado","san juan","colorado,san juan",8111
+"colorado","san miguel","colorado,san miguel",8113
+"colorado","sedgwick","colorado,sedgwick",8115
+"colorado","summit","colorado,summit",8117
+"colorado","teller","colorado,teller",8119
+"colorado","washington","colorado,washington",8121
+"colorado","weld","colorado,weld",8123
+"colorado","yuma","colorado,yuma",8125
+"connecticut","fairfield","connecticut,fairfield",9001
+"connecticut","hartford","connecticut,hartford",9003
+"connecticut","litchfield","connecticut,litchfield",9005
+"connecticut","middlesex","connecticut,middlesex",9007
+"connecticut","new haven","connecticut,new haven",9009
+"connecticut","new london","connecticut,new london",9011
+"connecticut","tolland","connecticut,tolland",9013
+"connecticut","windham","connecticut,windham",9015
+"delaware","kent","delaware,kent",10001
+"delaware","new castle","delaware,new castle",10003
+"delaware","sussex","delaware,sussex",10005
+"district of columbia","washington","district of columbia,washington",11001
+"florida","alachua","florida,alachua",12001
+"florida","baker","florida,baker",12003
+"florida","bay","florida,bay",12005
+"florida","bradford","florida,bradford",12007
+"florida","brevard","florida,brevard",12009
+"florida","broward","florida,broward",12011
+"florida","calhoun","florida,calhoun",12013
+"florida","charlotte","florida,charlotte",12015
+"florida","citrus","florida,citrus",12017
+"florida","clay","florida,clay",12019
+"florida","collier","florida,collier",12021
+"florida","columbia","florida,columbia",12023
+"florida","dade","florida,dade",12086
+"florida","de soto","florida,de soto",12027
+"florida","dixie","florida,dixie",12029
+"florida","duval","florida,duval",12031
+"florida","escambia","florida,escambia",12033
+"florida","flagler","florida,flagler",12035
+"florida","franklin","florida,franklin",12037
+"florida","gadsden","florida,gadsden",12039
+"florida","gilchrist","florida,gilchrist",12041
+"florida","glades","florida,glades",12043
+"florida","gulf","florida,gulf",12045
+"florida","hamilton","florida,hamilton",12047
+"florida","hardee","florida,hardee",12049
+"florida","hendry","florida,hendry",12051
+"florida","hernando","florida,hernando",12053
+"florida","highlands","florida,highlands",12055
+"florida","hillsborough","florida,hillsborough",12057
+"florida","holmes","florida,holmes",12059
+"florida","indian river","florida,indian river",12061
+"florida","jackson","florida,jackson",12063
+"florida","jefferson","florida,jefferson",12065
+"florida","lafayette","florida,lafayette",12067
+"florida","lake","florida,lake",12069
+"florida","lee","florida,lee",12071
+"florida","leon","florida,leon",12073
+"florida","levy","florida,levy",12075
+"florida","liberty","florida,liberty",12077
+"florida","madison","florida,madison",12079
+"florida","manatee","florida,manatee",12081
+"florida","marion","florida,marion",12083
+"florida","martin","florida,martin",12085
+"florida","monroe","florida,monroe",12087
+"florida","nassau","florida,nassau",12089
+"florida","okaloosa","florida,okaloosa",12091
+"florida","okeechobee","florida,okeechobee",12093
+"florida","orange","florida,orange",12095
+"florida","osceola","florida,osceola",12097
+"florida","palm beach","florida,palm beach",12099
+"florida","pasco","florida,pasco",12101
+"florida","pinellas","florida,pinellas",12103
+"florida","polk","florida,polk",12105
+"florida","putnam","florida,putnam",12107
+"florida","santa rosa","florida,santa rosa",12113
+"florida","sarasota","florida,sarasota",12115
+"florida","seminole","florida,seminole",12117
+"florida","st johns","florida,st johns",12109
+"florida","st lucie","florida,st lucie",12111
+"florida","sumter","florida,sumter",12119
+"florida","suwannee","florida,suwannee",12121
+"florida","taylor","florida,taylor",12123
+"florida","union","florida,union",12125
+"florida","volusia","florida,volusia",12127
+"florida","wakulla","florida,wakulla",12129
+"florida","walton","florida,walton",12131
+"florida","washington","florida,washington",12133
+"georgia","appling","georgia,appling",13001
+"georgia","atkinson","georgia,atkinson",13003
+"georgia","bacon","georgia,bacon",13005
+"georgia","baker","georgia,baker",13007
+"georgia","baldwin","georgia,baldwin",13009
+"georgia","banks","georgia,banks",13011
+"georgia","barrow","georgia,barrow",13013
+"georgia","bartow","georgia,bartow",13015
+"georgia","ben hill","georgia,ben hill",13017
+"georgia","berrien","georgia,berrien",13019
+"georgia","bibb","georgia,bibb",13021
+"georgia","bleckley","georgia,bleckley",13023
+"georgia","brantley","georgia,brantley",13025
+"georgia","brooks","georgia,brooks",13027
+"georgia","bryan","georgia,bryan",13029
+"georgia","bulloch","georgia,bulloch",13031
+"georgia","burke","georgia,burke",13033
+"georgia","butts","georgia,butts",13035
+"georgia","calhoun","georgia,calhoun",13037
+"georgia","camden","georgia,camden",13039
+"georgia","candler","georgia,candler",13043
+"georgia","carroll","georgia,carroll",13045
+"georgia","catoosa","georgia,catoosa",13047
+"georgia","charlton","georgia,charlton",13049
+"georgia","chatham","georgia,chatham",13051
+"georgia","chattahoochee","georgia,chattahoochee",13053
+"georgia","chattooga","georgia,chattooga",13055
+"georgia","cherokee","georgia,cherokee",13057
+"georgia","clarke","georgia,clarke",13059
+"georgia","clay","georgia,clay",13061
+"georgia","clayton","georgia,clayton",13063
+"georgia","clinch","georgia,clinch",13065
+"georgia","cobb","georgia,cobb",13067
+"georgia","coffee","georgia,coffee",13069
+"georgia","colquitt","georgia,colquitt",13071
+"georgia","columbia","georgia,columbia",13073
+"georgia","cook","georgia,cook",13075
+"georgia","coweta","georgia,coweta",13077
+"georgia","crawford","georgia,crawford",13079
+"georgia","crisp","georgia,crisp",13081
+"georgia","dade","georgia,dade",13083
+"georgia","dawson","georgia,dawson",13085
+"georgia","de kalb","georgia,de kalb",13089
+"georgia","decatur","georgia,decatur",13087
+"georgia","dodge","georgia,dodge",13091
+"georgia","dooly","georgia,dooly",13093
+"georgia","dougherty","georgia,dougherty",13095
+"georgia","douglas","georgia,douglas",13097
+"georgia","early","georgia,early",13099
+"georgia","echols","georgia,echols",13101
+"georgia","effingham","georgia,effingham",13103
+"georgia","elbert","georgia,elbert",13105
+"georgia","emanuel","georgia,emanuel",13107
+"georgia","evans","georgia,evans",13109
+"georgia","fannin","georgia,fannin",13111
+"georgia","fayette","georgia,fayette",13113
+"georgia","floyd","georgia,floyd",13115
+"georgia","forsyth","georgia,forsyth",13117
+"georgia","franklin","georgia,franklin",13119
+"georgia","fulton","georgia,fulton",13121
+"georgia","gilmer","georgia,gilmer",13123
+"georgia","glascock","georgia,glascock",13125
+"georgia","glynn","georgia,glynn",13127
+"georgia","gordon","georgia,gordon",13129
+"georgia","grady","georgia,grady",13131
+"georgia","greene","georgia,greene",13133
+"georgia","gwinnett","georgia,gwinnett",13135
+"georgia","habersham","georgia,habersham",13137
+"georgia","hall","georgia,hall",13139
+"georgia","hancock","georgia,hancock",13141
+"georgia","haralson","georgia,haralson",13143
+"georgia","harris","georgia,harris",13145
+"georgia","hart","georgia,hart",13147
+"georgia","heard","georgia,heard",13149
+"georgia","henry","georgia,henry",13151
+"georgia","houston","georgia,houston",13153
+"georgia","irwin","georgia,irwin",13155
+"georgia","jackson","georgia,jackson",13157
+"georgia","jasper","georgia,jasper",13159
+"georgia","jeff davis","georgia,jeff davis",13161
+"georgia","jefferson","georgia,jefferson",13163
+"georgia","jenkins","georgia,jenkins",13165
+"georgia","johnson","georgia,johnson",13167
+"georgia","jones","georgia,jones",13169
+"georgia","lamar","georgia,lamar",13171
+"georgia","lanier","georgia,lanier",13173
+"georgia","laurens","georgia,laurens",13175
+"georgia","lee","georgia,lee",13177
+"georgia","liberty","georgia,liberty",13179
+"georgia","lincoln","georgia,lincoln",13181
+"georgia","long","georgia,long",13183
+"georgia","lowndes","georgia,lowndes",13185
+"georgia","lumpkin","georgia,lumpkin",13187
+"georgia","macon","georgia,macon",13193
+"georgia","madison","georgia,madison",13195
+"georgia","marion","georgia,marion",13197
+"georgia","mcduffie","georgia,mcduffie",13189
+"georgia","mcintosh","georgia,mcintosh",13191
+"georgia","meriwether","georgia,meriwether",13199
+"georgia","miller","georgia,miller",13201
+"georgia","mitchell","georgia,mitchell",13205
+"georgia","monroe","georgia,monroe",13207
+"georgia","montgomery","georgia,montgomery",13209
+"georgia","morgan","georgia,morgan",13211
+"georgia","murray","georgia,murray",13213
+"georgia","muscogee","georgia,muscogee",13215
+"georgia","newton","georgia,newton",13217
+"georgia","oconee","georgia,oconee",13219
+"georgia","oglethorpe","georgia,oglethorpe",13221
+"georgia","paulding","georgia,paulding",13223
+"georgia","peach","georgia,peach",13225
+"georgia","pickens","georgia,pickens",13227
+"georgia","pierce","georgia,pierce",13229
+"georgia","pike","georgia,pike",13231
+"georgia","polk","georgia,polk",13233
+"georgia","pulaski","georgia,pulaski",13235
+"georgia","putnam","georgia,putnam",13237
+"georgia","quitman","georgia,quitman",13239
+"georgia","rabun","georgia,rabun",13241
+"georgia","randolph","georgia,randolph",13243
+"georgia","richmond","georgia,richmond",13245
+"georgia","rockdale","georgia,rockdale",13247
+"georgia","schley","georgia,schley",13249
+"georgia","screven","georgia,screven",13251
+"georgia","seminole","georgia,seminole",13253
+"georgia","spalding","georgia,spalding",13255
+"georgia","stephens","georgia,stephens",13257
+"georgia","stewart","georgia,stewart",13259
+"georgia","sumter","georgia,sumter",13261
+"georgia","talbot","georgia,talbot",13263
+"georgia","taliaferro","georgia,taliaferro",13265
+"georgia","tattnall","georgia,tattnall",13267
+"georgia","taylor","georgia,taylor",13269
+"georgia","telfair","georgia,telfair",13271
+"georgia","terrell","georgia,terrell",13273
+"georgia","thomas","georgia,thomas",13275
+"georgia","tift","georgia,tift",13277
+"georgia","toombs","georgia,toombs",13279
+"georgia","towns","georgia,towns",13281
+"georgia","treutlen","georgia,treutlen",13283
+"georgia","troup","georgia,troup",13285
+"georgia","turner","georgia,turner",13287
+"georgia","twiggs","georgia,twiggs",13289
+"georgia","union","georgia,union",13291
+"georgia","upson","georgia,upson",13293
+"georgia","walker","georgia,walker",13295
+"georgia","walton","georgia,walton",13297
+"georgia","ware","georgia,ware",13299
+"georgia","warren","georgia,warren",13301
+"georgia","washington","georgia,washington",13303
+"georgia","wayne","georgia,wayne",13305
+"georgia","webster","georgia,webster",13307
+"georgia","wheeler","georgia,wheeler",13309
+"georgia","white","georgia,white",13311
+"georgia","whitfield","georgia,whitfield",13313
+"georgia","wilcox","georgia,wilcox",13315
+"georgia","wilkes","georgia,wilkes",13317
+"georgia","wilkinson","georgia,wilkinson",13319
+"georgia","worth","georgia,worth",13321
+"idaho","ada","idaho,ada",16001
+"idaho","adams","idaho,adams",16003
+"idaho","bannock","idaho,bannock",16005
+"idaho","bear lake","idaho,bear lake",16007
+"idaho","benewah","idaho,benewah",16009
+"idaho","bingham","idaho,bingham",16011
+"idaho","blaine","idaho,blaine",16013
+"idaho","boise","idaho,boise",16015
+"idaho","bonner","idaho,bonner",16017
+"idaho","bonneville","idaho,bonneville",16019
+"idaho","boundary","idaho,boundary",16021
+"idaho","butte","idaho,butte",16023
+"idaho","camas","idaho,camas",16025
+"idaho","canyon","idaho,canyon",16027
+"idaho","caribou","idaho,caribou",16029
+"idaho","cassia","idaho,cassia",16031
+"idaho","clark","idaho,clark",16033
+"idaho","clearwater","idaho,clearwater",16035
+"idaho","custer","idaho,custer",16037
+"idaho","elmore","idaho,elmore",16039
+"idaho","franklin","idaho,franklin",16041
+"idaho","fremont","idaho,fremont",16043
+"idaho","gem","idaho,gem",16045
+"idaho","gooding","idaho,gooding",16047
+"idaho","idaho","idaho,idaho",16049
+"idaho","jefferson","idaho,jefferson",16051
+"idaho","jerome","idaho,jerome",16053
+"idaho","kootenai","idaho,kootenai",16055
+"idaho","latah","idaho,latah",16057
+"idaho","lemhi","idaho,lemhi",16059
+"idaho","lewis","idaho,lewis",16061
+"idaho","lincoln","idaho,lincoln",16063
+"idaho","madison","idaho,madison",16065
+"idaho","minidoka","idaho,minidoka",16067
+"idaho","nez perce","idaho,nez perce",16069
+"idaho","oneida","idaho,oneida",16071
+"idaho","owyhee","idaho,owyhee",16073
+"idaho","payette","idaho,payette",16075
+"idaho","power","idaho,power",16077
+"idaho","shoshone","idaho,shoshone",16079
+"idaho","teton","idaho,teton",16081
+"idaho","twin falls","idaho,twin falls",16083
+"idaho","valley","idaho,valley",16085
+"idaho","washington","idaho,washington",16087
+"illinois","adams","illinois,adams",17001
+"illinois","alexander","illinois,alexander",17003
+"illinois","bond","illinois,bond",17005
+"illinois","boone","illinois,boone",17007
+"illinois","brown","illinois,brown",17009
+"illinois","bureau","illinois,bureau",17011
+"illinois","calhoun","illinois,calhoun",17013
+"illinois","carroll","illinois,carroll",17015
+"illinois","cass","illinois,cass",17017
+"illinois","champaign","illinois,champaign",17019
+"illinois","christian","illinois,christian",17021
+"illinois","clark","illinois,clark",17023
+"illinois","clay","illinois,clay",17025
+"illinois","clinton","illinois,clinton",17027
+"illinois","coles","illinois,coles",17029
+"illinois","cook","illinois,cook",17031
+"illinois","crawford","illinois,crawford",17033
+"illinois","cumberland","illinois,cumberland",17035
+"illinois","de kalb","illinois,de kalb",17037
+"illinois","de witt","illinois,de witt",17039
+"illinois","douglas","illinois,douglas",17041
+"illinois","du page","illinois,du page",17043
+"illinois","edgar","illinois,edgar",17045
+"illinois","edwards","illinois,edwards",17047
+"illinois","effingham","illinois,effingham",17049
+"illinois","fayette","illinois,fayette",17051
+"illinois","ford","illinois,ford",17053
+"illinois","franklin","illinois,franklin",17055
+"illinois","fulton","illinois,fulton",17057
+"illinois","gallatin","illinois,gallatin",17059
+"illinois","greene","illinois,greene",17061
+"illinois","grundy","illinois,grundy",17063
+"illinois","hamilton","illinois,hamilton",17065
+"illinois","hancock","illinois,hancock",17067
+"illinois","hardin","illinois,hardin",17069
+"illinois","henderson","illinois,henderson",17071
+"illinois","henry","illinois,henry",17073
+"illinois","iroquois","illinois,iroquois",17075
+"illinois","jackson","illinois,jackson",17077
+"illinois","jasper","illinois,jasper",17079
+"illinois","jefferson","illinois,jefferson",17081
+"illinois","jersey","illinois,jersey",17083
+"illinois","jo daviess","illinois,jo daviess",17085
+"illinois","johnson","illinois,johnson",17087
+"illinois","kane","illinois,kane",17089
+"illinois","kankakee","illinois,kankakee",17091
+"illinois","kendall","illinois,kendall",17093
+"illinois","knox","illinois,knox",17095
+"illinois","la salle","illinois,la salle",17099
+"illinois","lake","illinois,lake",17097
+"illinois","lawrence","illinois,lawrence",17101
+"illinois","lee","illinois,lee",17103
+"illinois","livingston","illinois,livingston",17105
+"illinois","logan","illinois,logan",17107
+"illinois","macon","illinois,macon",17115
+"illinois","macoupin","illinois,macoupin",17117
+"illinois","madison","illinois,madison",17119
+"illinois","marion","illinois,marion",17121
+"illinois","marshall","illinois,marshall",17123
+"illinois","mason","illinois,mason",17125
+"illinois","massac","illinois,massac",17127
+"illinois","mcdonough","illinois,mcdonough",17109
+"illinois","mchenry","illinois,mchenry",17111
+"illinois","mclean","illinois,mclean",17113
+"illinois","menard","illinois,menard",17129
+"illinois","mercer","illinois,mercer",17131
+"illinois","monroe","illinois,monroe",17133
+"illinois","montgomery","illinois,montgomery",17135
+"illinois","morgan","illinois,morgan",17137
+"illinois","moultrie","illinois,moultrie",17139
+"illinois","ogle","illinois,ogle",17141
+"illinois","peoria","illinois,peoria",17143
+"illinois","perry","illinois,perry",17145
+"illinois","piatt","illinois,piatt",17147
+"illinois","pike","illinois,pike",17149
+"illinois","pope","illinois,pope",17151
+"illinois","pulaski","illinois,pulaski",17153
+"illinois","putnam","illinois,putnam",17155
+"illinois","randolph","illinois,randolph",17157
+"illinois","richland","illinois,richland",17159
+"illinois","rock island","illinois,rock island",17161
+"illinois","saline","illinois,saline",17165
+"illinois","sangamon","illinois,sangamon",17167
+"illinois","schuyler","illinois,schuyler",17169
+"illinois","scott","illinois,scott",17171
+"illinois","shelby","illinois,shelby",17173
+"illinois","st clair","illinois,st clair",17163
+"illinois","stark","illinois,stark",17175
+"illinois","stephenson","illinois,stephenson",17177
+"illinois","tazewell","illinois,tazewell",17179
+"illinois","union","illinois,union",17181
+"illinois","vermilion","illinois,vermilion",17183
+"illinois","wabash","illinois,wabash",17185
+"illinois","warren","illinois,warren",17187
+"illinois","washington","illinois,washington",17189
+"illinois","wayne","illinois,wayne",17191
+"illinois","white","illinois,white",17193
+"illinois","whiteside","illinois,whiteside",17195
+"illinois","will","illinois,will",17197
+"illinois","williamson","illinois,williamson",17199
+"illinois","winnebago","illinois,winnebago",17201
+"illinois","woodford","illinois,woodford",17203
+"indiana","adams","indiana,adams",18001
+"indiana","allen","indiana,allen",18003
+"indiana","bartholomew","indiana,bartholomew",18005
+"indiana","benton","indiana,benton",18007
+"indiana","blackford","indiana,blackford",18009
+"indiana","boone","indiana,boone",18011
+"indiana","brown","indiana,brown",18013
+"indiana","carroll","indiana,carroll",18015
+"indiana","cass","indiana,cass",18017
+"indiana","clark","indiana,clark",18019
+"indiana","clay","indiana,clay",18021
+"indiana","clinton","indiana,clinton",18023
+"indiana","crawford","indiana,crawford",18025
+"indiana","daviess","indiana,daviess",18027
+"indiana","de kalb","indiana,de kalb",18033
+"indiana","dearborn","indiana,dearborn",18029
+"indiana","decatur","indiana,decatur",18031
+"indiana","delaware","indiana,delaware",18035
+"indiana","dubois","indiana,dubois",18037
+"indiana","elkhart","indiana,elkhart",18039
+"indiana","fayette","indiana,fayette",18041
+"indiana","floyd","indiana,floyd",18043
+"indiana","fountain","indiana,fountain",18045
+"indiana","franklin","indiana,franklin",18047
+"indiana","fulton","indiana,fulton",18049
+"indiana","gibson","indiana,gibson",18051
+"indiana","grant","indiana,grant",18053
+"indiana","greene","indiana,greene",18055
+"indiana","hamilton","indiana,hamilton",18057
+"indiana","hancock","indiana,hancock",18059
+"indiana","harrison","indiana,harrison",18061
+"indiana","hendricks","indiana,hendricks",18063
+"indiana","henry","indiana,henry",18065
+"indiana","howard","indiana,howard",18067
+"indiana","huntington","indiana,huntington",18069
+"indiana","jackson","indiana,jackson",18071
+"indiana","jasper","indiana,jasper",18073
+"indiana","jay","indiana,jay",18075
+"indiana","jefferson","indiana,jefferson",18077
+"indiana","jennings","indiana,jennings",18079
+"indiana","johnson","indiana,johnson",18081
+"indiana","knox","indiana,knox",18083
+"indiana","kosciusko","indiana,kosciusko",18085
+"indiana","la porte","indiana,la porte",18091
+"indiana","lagrange","indiana,lagrange",18087
+"indiana","lake","indiana,lake",18089
+"indiana","lawrence","indiana,lawrence",18093
+"indiana","madison","indiana,madison",18095
+"indiana","marion","indiana,marion",18097
+"indiana","marshall","indiana,marshall",18099
+"indiana","martin","indiana,martin",18101
+"indiana","miami","indiana,miami",18103
+"indiana","monroe","indiana,monroe",18105
+"indiana","montgomery","indiana,montgomery",18107
+"indiana","morgan","indiana,morgan",18109
+"indiana","newton","indiana,newton",18111
+"indiana","noble","indiana,noble",18113
+"indiana","ohio","indiana,ohio",18115
+"indiana","orange","indiana,orange",18117
+"indiana","owen","indiana,owen",18119
+"indiana","parke","indiana,parke",18121
+"indiana","perry","indiana,perry",18123
+"indiana","pike","indiana,pike",18125
+"indiana","porter","indiana,porter",18127
+"indiana","posey","indiana,posey",18129
+"indiana","pulaski","indiana,pulaski",18131
+"indiana","putnam","indiana,putnam",18133
+"indiana","randolph","indiana,randolph",18135
+"indiana","ripley","indiana,ripley",18137
+"indiana","rush","indiana,rush",18139
+"indiana","scott","indiana,scott",18143
+"indiana","shelby","indiana,shelby",18145
+"indiana","spencer","indiana,spencer",18147
+"indiana","st joseph","indiana,st joseph",18141
+"indiana","starke","indiana,starke",18149
+"indiana","steuben","indiana,steuben",18151
+"indiana","sullivan","indiana,sullivan",18153
+"indiana","switzerland","indiana,switzerland",18155
+"indiana","tippecanoe","indiana,tippecanoe",18157
+"indiana","tipton","indiana,tipton",18159
+"indiana","union","indiana,union",18161
+"indiana","vanderburgh","indiana,vanderburgh",18163
+"indiana","vermillion","indiana,vermillion",18165
+"indiana","vigo","indiana,vigo",18167
+"indiana","wabash","indiana,wabash",18169
+"indiana","warren","indiana,warren",18171
+"indiana","warrick","indiana,warrick",18173
+"indiana","washington","indiana,washington",18175
+"indiana","wayne","indiana,wayne",18177
+"indiana","wells","indiana,wells",18179
+"indiana","white","indiana,white",18181
+"indiana","whitley","indiana,whitley",18183
+"iowa","adair","iowa,adair",19001
+"iowa","adams","iowa,adams",19003
+"iowa","allamakee","iowa,allamakee",19005
+"iowa","appanoose","iowa,appanoose",19007
+"iowa","audubon","iowa,audubon",19009
+"iowa","benton","iowa,benton",19011
+"iowa","black hawk","iowa,black hawk",19013
+"iowa","boone","iowa,boone",19015
+"iowa","bremer","iowa,bremer",19017
+"iowa","buchanan","iowa,buchanan",19019
+"iowa","buena vista","iowa,buena vista",19021
+"iowa","butler","iowa,butler",19023
+"iowa","calhoun","iowa,calhoun",19025
+"iowa","carroll","iowa,carroll",19027
+"iowa","cass","iowa,cass",19029
+"iowa","cedar","iowa,cedar",19031
+"iowa","cerro gordo","iowa,cerro gordo",19033
+"iowa","cherokee","iowa,cherokee",19035
+"iowa","chickasaw","iowa,chickasaw",19037
+"iowa","clarke","iowa,clarke",19039
+"iowa","clay","iowa,clay",19041
+"iowa","clayton","iowa,clayton",19043
+"iowa","clinton","iowa,clinton",19045
+"iowa","crawford","iowa,crawford",19047
+"iowa","dallas","iowa,dallas",19049
+"iowa","davis","iowa,davis",19051
+"iowa","decatur","iowa,decatur",19053
+"iowa","delaware","iowa,delaware",19055
+"iowa","des moines","iowa,des moines",19057
+"iowa","dickinson","iowa,dickinson",19059
+"iowa","dubuque","iowa,dubuque",19061
+"iowa","emmet","iowa,emmet",19063
+"iowa","fayette","iowa,fayette",19065
+"iowa","floyd","iowa,floyd",19067
+"iowa","franklin","iowa,franklin",19069
+"iowa","fremont","iowa,fremont",19071
+"iowa","greene","iowa,greene",19073
+"iowa","grundy","iowa,grundy",19075
+"iowa","guthrie","iowa,guthrie",19077
+"iowa","hamilton","iowa,hamilton",19079
+"iowa","hancock","iowa,hancock",19081
+"iowa","hardin","iowa,hardin",19083
+"iowa","harrison","iowa,harrison",19085
+"iowa","henry","iowa,henry",19087
+"iowa","howard","iowa,howard",19089
+"iowa","humboldt","iowa,humboldt",19091
+"iowa","ida","iowa,ida",19093
+"iowa","iowa","iowa,iowa",19095
+"iowa","jackson","iowa,jackson",19097
+"iowa","jasper","iowa,jasper",19099
+"iowa","jefferson","iowa,jefferson",19101
+"iowa","johnson","iowa,johnson",19103
+"iowa","jones","iowa,jones",19105
+"iowa","keokuk","iowa,keokuk",19107
+"iowa","kossuth","iowa,kossuth",19109
+"iowa","lee","iowa,lee",19111
+"iowa","linn","iowa,linn",19113
+"iowa","louisa","iowa,louisa",19115
+"iowa","lucas","iowa,lucas",19117
+"iowa","lyon","iowa,lyon",19119
+"iowa","madison","iowa,madison",19121
+"iowa","mahaska","iowa,mahaska",19123
+"iowa","marion","iowa,marion",19125
+"iowa","marshall","iowa,marshall",19127
+"iowa","mills","iowa,mills",19129
+"iowa","mitchell","iowa,mitchell",19131
+"iowa","monona","iowa,monona",19133
+"iowa","monroe","iowa,monroe",19135
+"iowa","montgomery","iowa,montgomery",19137
+"iowa","muscatine","iowa,muscatine",19139
+"iowa","obrien","iowa,obrien",19141
+"iowa","osceola","iowa,osceola",19143
+"iowa","page","iowa,page",19145
+"iowa","palo alto","iowa,palo alto",19147
+"iowa","plymouth","iowa,plymouth",19149
+"iowa","pocahontas","iowa,pocahontas",19151
+"iowa","polk","iowa,polk",19153
+"iowa","pottawattamie","iowa,pottawattamie",19155
+"iowa","poweshiek","iowa,poweshiek",19157
+"iowa","ringgold","iowa,ringgold",19159
+"iowa","sac","iowa,sac",19161
+"iowa","scott","iowa,scott",19163
+"iowa","shelby","iowa,shelby",19165
+"iowa","sioux","iowa,sioux",19167
+"iowa","story","iowa,story",19169
+"iowa","tama","iowa,tama",19171
+"iowa","taylor","iowa,taylor",19173
+"iowa","union","iowa,union",19175
+"iowa","van buren","iowa,van buren",19177
+"iowa","wapello","iowa,wapello",19179
+"iowa","warren","iowa,warren",19181
+"iowa","washington","iowa,washington",19183
+"iowa","wayne","iowa,wayne",19185
+"iowa","webster","iowa,webster",19187
+"iowa","winnebago","iowa,winnebago",19189
+"iowa","winneshiek","iowa,winneshiek",19191
+"iowa","woodbury","iowa,woodbury",19193
+"iowa","worth","iowa,worth",19195
+"iowa","wright","iowa,wright",19197
+"kansas","allen","kansas,allen",20001
+"kansas","anderson","kansas,anderson",20003
+"kansas","atchison","kansas,atchison",20005
+"kansas","barber","kansas,barber",20007
+"kansas","barton","kansas,barton",20009
+"kansas","bourbon","kansas,bourbon",20011
+"kansas","brown","kansas,brown",20013
+"kansas","butler","kansas,butler",20015
+"kansas","chase","kansas,chase",20017
+"kansas","chautauqua","kansas,chautauqua",20019
+"kansas","cherokee","kansas,cherokee",20021
+"kansas","cheyenne","kansas,cheyenne",20023
+"kansas","clark","kansas,clark",20025
+"kansas","clay","kansas,clay",20027
+"kansas","cloud","kansas,cloud",20029
+"kansas","coffey","kansas,coffey",20031
+"kansas","comanche","kansas,comanche",20033
+"kansas","cowley","kansas,cowley",20035
+"kansas","crawford","kansas,crawford",20037
+"kansas","decatur","kansas,decatur",20039
+"kansas","dickinson","kansas,dickinson",20041
+"kansas","doniphan","kansas,doniphan",20043
+"kansas","douglas","kansas,douglas",20045
+"kansas","edwards","kansas,edwards",20047
+"kansas","elk","kansas,elk",20049
+"kansas","ellis","kansas,ellis",20051
+"kansas","ellsworth","kansas,ellsworth",20053
+"kansas","finney","kansas,finney",20055
+"kansas","ford","kansas,ford",20057
+"kansas","franklin","kansas,franklin",20059
+"kansas","geary","kansas,geary",20061
+"kansas","gove","kansas,gove",20063
+"kansas","graham","kansas,graham",20065
+"kansas","grant","kansas,grant",20067
+"kansas","gray","kansas,gray",20069
+"kansas","greeley","kansas,greeley",20071
+"kansas","greenwood","kansas,greenwood",20073
+"kansas","hamilton","kansas,hamilton",20075
+"kansas","harper","kansas,harper",20077
+"kansas","harvey","kansas,harvey",20079
+"kansas","haskell","kansas,haskell",20081
+"kansas","hodgeman","kansas,hodgeman",20083
+"kansas","jackson","kansas,jackson",20085
+"kansas","jefferson","kansas,jefferson",20087
+"kansas","jewell","kansas,jewell",20089
+"kansas","johnson","kansas,johnson",20091
+"kansas","kearny","kansas,kearny",20093
+"kansas","kingman","kansas,kingman",20095
+"kansas","kiowa","kansas,kiowa",20097
+"kansas","labette","kansas,labette",20099
+"kansas","lane","kansas,lane",20101
+"kansas","leavenworth","kansas,leavenworth",20103
+"kansas","lincoln","kansas,lincoln",20105
+"kansas","linn","kansas,linn",20107
+"kansas","logan","kansas,logan",20109
+"kansas","lyon","kansas,lyon",20111
+"kansas","marion","kansas,marion",20115
+"kansas","marshall","kansas,marshall",20117
+"kansas","mcpherson","kansas,mcpherson",20113
+"kansas","meade","kansas,meade",20119
+"kansas","miami","kansas,miami",20121
+"kansas","mitchell","kansas,mitchell",20123
+"kansas","montgomery","kansas,montgomery",20125
+"kansas","morris","kansas,morris",20127
+"kansas","morton","kansas,morton",20129
+"kansas","nemaha","kansas,nemaha",20131
+"kansas","neosho","kansas,neosho",20133
+"kansas","ness","kansas,ness",20135
+"kansas","norton","kansas,norton",20137
+"kansas","osage","kansas,osage",20139
+"kansas","osborne","kansas,osborne",20141
+"kansas","ottawa","kansas,ottawa",20143
+"kansas","pawnee","kansas,pawnee",20145
+"kansas","phillips","kansas,phillips",20147
+"kansas","pottawatomie","kansas,pottawatomie",20149
+"kansas","pratt","kansas,pratt",20151
+"kansas","rawlins","kansas,rawlins",20153
+"kansas","reno","kansas,reno",20155
+"kansas","republic","kansas,republic",20157
+"kansas","rice","kansas,rice",20159
+"kansas","riley","kansas,riley",20161
+"kansas","rooks","kansas,rooks",20163
+"kansas","rush","kansas,rush",20165
+"kansas","russell","kansas,russell",20167
+"kansas","saline","kansas,saline",20169
+"kansas","scott","kansas,scott",20171
+"kansas","sedgwick","kansas,sedgwick",20173
+"kansas","seward","kansas,seward",20175
+"kansas","shawnee","kansas,shawnee",20177
+"kansas","sheridan","kansas,sheridan",20179
+"kansas","sherman","kansas,sherman",20181
+"kansas","smith","kansas,smith",20183
+"kansas","stafford","kansas,stafford",20185
+"kansas","stanton","kansas,stanton",20187
+"kansas","stevens","kansas,stevens",20189
+"kansas","sumner","kansas,sumner",20191
+"kansas","thomas","kansas,thomas",20193
+"kansas","trego","kansas,trego",20195
+"kansas","wabaunsee","kansas,wabaunsee",20197
+"kansas","wallace","kansas,wallace",20199
+"kansas","washington","kansas,washington",20201
+"kansas","wichita","kansas,wichita",20203
+"kansas","wilson","kansas,wilson",20205
+"kansas","woodson","kansas,woodson",20207
+"kansas","wyandotte","kansas,wyandotte",20209
+"kentucky","adair","kentucky,adair",21001
+"kentucky","allen","kentucky,allen",21003
+"kentucky","anderson","kentucky,anderson",21005
+"kentucky","ballard","kentucky,ballard",21007
+"kentucky","barren","kentucky,barren",21009
+"kentucky","bath","kentucky,bath",21011
+"kentucky","bell","kentucky,bell",21013
+"kentucky","boone","kentucky,boone",21015
+"kentucky","bourbon","kentucky,bourbon",21017
+"kentucky","boyd","kentucky,boyd",21019
+"kentucky","boyle","kentucky,boyle",21021
+"kentucky","bracken","kentucky,bracken",21023
+"kentucky","breathitt","kentucky,breathitt",21025
+"kentucky","breckinridge","kentucky,breckinridge",21027
+"kentucky","bullitt","kentucky,bullitt",21029
+"kentucky","butler","kentucky,butler",21031
+"kentucky","caldwell","kentucky,caldwell",21033
+"kentucky","calloway","kentucky,calloway",21035
+"kentucky","campbell","kentucky,campbell",21037
+"kentucky","carlisle","kentucky,carlisle",21039
+"kentucky","carroll","kentucky,carroll",21041
+"kentucky","carter","kentucky,carter",21043
+"kentucky","casey","kentucky,casey",21045
+"kentucky","christian","kentucky,christian",21047
+"kentucky","clark","kentucky,clark",21049
+"kentucky","clay","kentucky,clay",21051
+"kentucky","clinton","kentucky,clinton",21053
+"kentucky","crittenden","kentucky,crittenden",21055
+"kentucky","cumberland","kentucky,cumberland",21057
+"kentucky","daviess","kentucky,daviess",21059
+"kentucky","edmonson","kentucky,edmonson",21061
+"kentucky","elliott","kentucky,elliott",21063
+"kentucky","estill","kentucky,estill",21065
+"kentucky","fayette","kentucky,fayette",21067
+"kentucky","fleming","kentucky,fleming",21069
+"kentucky","floyd","kentucky,floyd",21071
+"kentucky","franklin","kentucky,franklin",21073
+"kentucky","fulton","kentucky,fulton",21075
+"kentucky","gallatin","kentucky,gallatin",21077
+"kentucky","garrard","kentucky,garrard",21079
+"kentucky","grant","kentucky,grant",21081
+"kentucky","graves","kentucky,graves",21083
+"kentucky","grayson","kentucky,grayson",21085
+"kentucky","green","kentucky,green",21087
+"kentucky","greenup","kentucky,greenup",21089
+"kentucky","hancock","kentucky,hancock",21091
+"kentucky","hardin","kentucky,hardin",21093
+"kentucky","harlan","kentucky,harlan",21095
+"kentucky","harrison","kentucky,harrison",21097
+"kentucky","hart","kentucky,hart",21099
+"kentucky","henderson","kentucky,henderson",21101
+"kentucky","henry","kentucky,henry",21103
+"kentucky","hickman","kentucky,hickman",21105
+"kentucky","hopkins","kentucky,hopkins",21107
+"kentucky","jackson","kentucky,jackson",21109
+"kentucky","jefferson","kentucky,jefferson",21111
+"kentucky","jessamine","kentucky,jessamine",21113
+"kentucky","johnson","kentucky,johnson",21115
+"kentucky","kenton","kentucky,kenton",21117
+"kentucky","knott","kentucky,knott",21119
+"kentucky","knox","kentucky,knox",21121
+"kentucky","larue","kentucky,larue",21123
+"kentucky","laurel","kentucky,laurel",21125
+"kentucky","lawrence","kentucky,lawrence",21127
+"kentucky","lee","kentucky,lee",21129
+"kentucky","leslie","kentucky,leslie",21131
+"kentucky","letcher","kentucky,letcher",21133
+"kentucky","lewis","kentucky,lewis",21135
+"kentucky","lincoln","kentucky,lincoln",21137
+"kentucky","livingston","kentucky,livingston",21139
+"kentucky","logan","kentucky,logan",21141
+"kentucky","lyon","kentucky,lyon",21143
+"kentucky","madison","kentucky,madison",21151
+"kentucky","magoffin","kentucky,magoffin",21153
+"kentucky","marion","kentucky,marion",21155
+"kentucky","marshall","kentucky,marshall",21157
+"kentucky","martin","kentucky,martin",21159
+"kentucky","mason","kentucky,mason",21161
+"kentucky","mccracken","kentucky,mccracken",21145
+"kentucky","mccreary","kentucky,mccreary",21147
+"kentucky","mclean","kentucky,mclean",21149
+"kentucky","meade","kentucky,meade",21163
+"kentucky","menifee","kentucky,menifee",21165
+"kentucky","mercer","kentucky,mercer",21167
+"kentucky","metcalfe","kentucky,metcalfe",21169
+"kentucky","monroe","kentucky,monroe",21171
+"kentucky","montgomery","kentucky,montgomery",21173
+"kentucky","morgan","kentucky,morgan",21175
+"kentucky","muhlenberg","kentucky,muhlenberg",21177
+"kentucky","nelson","kentucky,nelson",21179
+"kentucky","nicholas","kentucky,nicholas",21181
+"kentucky","ohio","kentucky,ohio",21183
+"kentucky","oldham","kentucky,oldham",21185
+"kentucky","owen","kentucky,owen",21187
+"kentucky","owsley","kentucky,owsley",21189
+"kentucky","pendleton","kentucky,pendleton",21191
+"kentucky","perry","kentucky,perry",21193
+"kentucky","pike","kentucky,pike",21195
+"kentucky","powell","kentucky,powell",21197
+"kentucky","pulaski","kentucky,pulaski",21199
+"kentucky","robertson","kentucky,robertson",21201
+"kentucky","rockcastle","kentucky,rockcastle",21203
+"kentucky","rowan","kentucky,rowan",21205
+"kentucky","russell","kentucky,russell",21207
+"kentucky","scott","kentucky,scott",21209
+"kentucky","shelby","kentucky,shelby",21211
+"kentucky","simpson","kentucky,simpson",21213
+"kentucky","spencer","kentucky,spencer",21215
+"kentucky","taylor","kentucky,taylor",21217
+"kentucky","todd","kentucky,todd",21219
+"kentucky","trigg","kentucky,trigg",21221
+"kentucky","trimble","kentucky,trimble",21223
+"kentucky","union","kentucky,union",21225
+"kentucky","warren","kentucky,warren",21227
+"kentucky","washington","kentucky,washington",21229
+"kentucky","wayne","kentucky,wayne",21231
+"kentucky","webster","kentucky,webster",21233
+"kentucky","whitley","kentucky,whitley",21235
+"kentucky","wolfe","kentucky,wolfe",21237
+"kentucky","woodford","kentucky,woodford",21239
+"louisiana","acadia","louisiana,acadia",22001
+"louisiana","allen","louisiana,allen",22003
+"louisiana","ascension","louisiana,ascension",22005
+"louisiana","assumption","louisiana,assumption",22007
+"louisiana","avoyelles","louisiana,avoyelles",22009
+"louisiana","beauregard","louisiana,beauregard",22011
+"louisiana","bienville","louisiana,bienville",22013
+"louisiana","bossier","louisiana,bossier",22015
+"louisiana","caddo","louisiana,caddo",22017
+"louisiana","calcasieu","louisiana,calcasieu",22019
+"louisiana","caldwell","louisiana,caldwell",22021
+"louisiana","cameron","louisiana,cameron",22023
+"louisiana","catahoula","louisiana,catahoula",22025
+"louisiana","claiborne","louisiana,claiborne",22027
+"louisiana","concordia","louisiana,concordia",22029
+"louisiana","de soto","louisiana,de soto",22031
+"louisiana","east baton rouge","louisiana,east baton rouge",22033
+"louisiana","east carroll","louisiana,east carroll",22035
+"louisiana","east feliciana","louisiana,east feliciana",22037
+"louisiana","evangeline","louisiana,evangeline",22039
+"louisiana","franklin","louisiana,franklin",22041
+"louisiana","grant","louisiana,grant",22043
+"louisiana","iberia","louisiana,iberia",22045
+"louisiana","iberville","louisiana,iberville",22047
+"louisiana","jackson","louisiana,jackson",22049
+"louisiana","jefferson","louisiana,jefferson",22051
+"louisiana","jefferson davis","louisiana,jefferson davis",22053
+"louisiana","la salle","louisiana,la salle",22059
+"louisiana","lafayette","louisiana,lafayette",22055
+"louisiana","lafourche","louisiana,lafourche",22057
+"louisiana","lincoln","louisiana,lincoln",22061
+"louisiana","livingston","louisiana,livingston",22063
+"louisiana","madison","louisiana,madison",22065
+"louisiana","morehouse","louisiana,morehouse",22067
+"louisiana","natchitoches","louisiana,natchitoches",22069
+"louisiana","orleans","louisiana,orleans",22071
+"louisiana","ouachita","louisiana,ouachita",22073
+"louisiana","plaquemines","louisiana,plaquemines",22075
+"louisiana","pointe coupee","louisiana,pointe coupee",22077
+"louisiana","rapides","louisiana,rapides",22079
+"louisiana","red river","louisiana,red river",22081
+"louisiana","richland","louisiana,richland",22083
+"louisiana","sabine","louisiana,sabine",22085
+"louisiana","st bernard","louisiana,st bernard",22087
+"louisiana","st charles","louisiana,st charles",22089
+"louisiana","st helena","louisiana,st helena",22091
+"louisiana","st james","louisiana,st james",22093
+"louisiana","st john the baptist","louisiana,st john the baptist",22095
+"louisiana","st landry","louisiana,st landry",22097
+"louisiana","st martin","louisiana,st martin",22099
+"louisiana","st mary","louisiana,st mary",22101
+"louisiana","st tammany","louisiana,st tammany",22103
+"louisiana","tangipahoa","louisiana,tangipahoa",22105
+"louisiana","tensas","louisiana,tensas",22107
+"louisiana","terrebonne","louisiana,terrebonne",22109
+"louisiana","union","louisiana,union",22111
+"louisiana","vermilion","louisiana,vermilion",22113
+"louisiana","vernon","louisiana,vernon",22115
+"louisiana","washington","louisiana,washington",22117
+"louisiana","webster","louisiana,webster",22119
+"louisiana","west baton rouge","louisiana,west baton rouge",22121
+"louisiana","west carroll","louisiana,west carroll",22123
+"louisiana","west feliciana","louisiana,west feliciana",22125
+"louisiana","winn","louisiana,winn",22127
+"maine","androscoggin","maine,androscoggin",23001
+"maine","aroostook","maine,aroostook",23003
+"maine","cumberland","maine,cumberland",23005
+"maine","franklin","maine,franklin",23007
+"maine","hancock","maine,hancock",23009
+"maine","kennebec","maine,kennebec",23011
+"maine","knox","maine,knox",23013
+"maine","lincoln","maine,lincoln",23015
+"maine","oxford","maine,oxford",23017
+"maine","penobscot","maine,penobscot",23019
+"maine","piscataquis","maine,piscataquis",23021
+"maine","sagadahoc","maine,sagadahoc",23023
+"maine","somerset","maine,somerset",23025
+"maine","waldo","maine,waldo",23027
+"maine","washington","maine,washington",23029
+"maine","york","maine,york",23031
+"maryland","allegany","maryland,allegany",24001
+"maryland","anne arundel","maryland,anne arundel",24003
+"maryland","baltimore","maryland,baltimore",24005
+"maryland","baltimore city","maryland,baltimore city",24510
+"maryland","calvert","maryland,calvert",24009
+"maryland","caroline","maryland,caroline",24011
+"maryland","carroll","maryland,carroll",24013
+"maryland","cecil","maryland,cecil",24015
+"maryland","charles","maryland,charles",24017
+"maryland","dorchester","maryland,dorchester",24019
+"maryland","frederick","maryland,frederick",24021
+"maryland","garrett","maryland,garrett",24023
+"maryland","harford","maryland,harford",24025
+"maryland","howard","maryland,howard",24027
+"maryland","kent","maryland,kent",24029
+"maryland","montgomery","maryland,montgomery",24031
+"maryland","prince georges","maryland,prince georges",24033
+"maryland","queen annes","maryland,queen annes",24035
+"maryland","somerset","maryland,somerset",24039
+"maryland","st marys","maryland,st marys",24037
+"maryland","talbot","maryland,talbot",24041
+"maryland","washington","maryland,washington",24043
+"maryland","wicomico","maryland,wicomico",24045
+"maryland","worcester","maryland,worcester",24047
+"massachusetts","barnstable","massachusetts,barnstable",25001
+"massachusetts","berkshire","massachusetts,berkshire",25003
+"massachusetts","bristol","massachusetts,bristol",25005
+"massachusetts","dukes","massachusetts,dukes",25007
+"massachusetts","essex","massachusetts,essex",25009
+"massachusetts","franklin","massachusetts,franklin",25011
+"massachusetts","hampden","massachusetts,hampden",25013
+"massachusetts","hampshire","massachusetts,hampshire",25015
+"massachusetts","middlesex","massachusetts,middlesex",25017
+"massachusetts","nantucket","massachusetts,nantucket",25019
+"massachusetts","norfolk","massachusetts,norfolk",25021
+"massachusetts","plymouth","massachusetts,plymouth",25023
+"massachusetts","suffolk","massachusetts,suffolk",25025
+"massachusetts","worcester","massachusetts,worcester",25027
+"michigan","alcona","michigan,alcona",26001
+"michigan","alger","michigan,alger",26003
+"michigan","allegan","michigan,allegan",26005
+"michigan","alpena","michigan,alpena",26007
+"michigan","antrim","michigan,antrim",26009
+"michigan","arenac","michigan,arenac",26011
+"michigan","baraga","michigan,baraga",26013
+"michigan","barry","michigan,barry",26015
+"michigan","bay","michigan,bay",26017
+"michigan","benzie","michigan,benzie",26019
+"michigan","berrien","michigan,berrien",26021
+"michigan","branch","michigan,branch",26023
+"michigan","calhoun","michigan,calhoun",26025
+"michigan","cass","michigan,cass",26027
+"michigan","charlevoix","michigan,charlevoix",26029
+"michigan","cheboygan","michigan,cheboygan",26031
+"michigan","chippewa","michigan,chippewa",26033
+"michigan","clare","michigan,clare",26035
+"michigan","clinton","michigan,clinton",26037
+"michigan","crawford","michigan,crawford",26039
+"michigan","delta","michigan,delta",26041
+"michigan","dickinson","michigan,dickinson",26043
+"michigan","eaton","michigan,eaton",26045
+"michigan","emmet","michigan,emmet",26047
+"michigan","genesee","michigan,genesee",26049
+"michigan","gladwin","michigan,gladwin",26051
+"michigan","gogebic","michigan,gogebic",26053
+"michigan","grand traverse","michigan,grand traverse",26055
+"michigan","gratiot","michigan,gratiot",26057
+"michigan","hillsdale","michigan,hillsdale",26059
+"michigan","houghton","michigan,houghton",26061
+"michigan","huron","michigan,huron",26063
+"michigan","ingham","michigan,ingham",26065
+"michigan","ionia","michigan,ionia",26067
+"michigan","iosco","michigan,iosco",26069
+"michigan","iron","michigan,iron",26071
+"michigan","isabella","michigan,isabella",26073
+"michigan","jackson","michigan,jackson",26075
+"michigan","kalamazoo","michigan,kalamazoo",26077
+"michigan","kalkaska","michigan,kalkaska",26079
+"michigan","kent","michigan,kent",26081
+"michigan","keweenaw","michigan,keweenaw",26083
+"michigan","lake","michigan,lake",26085
+"michigan","lapeer","michigan,lapeer",26087
+"michigan","leelanau","michigan,leelanau",26089
+"michigan","lenawee","michigan,lenawee",26091
+"michigan","livingston","michigan,livingston",26093
+"michigan","luce","michigan,luce",26095
+"michigan","mackinac","michigan,mackinac",26097
+"michigan","macomb","michigan,macomb",26099
+"michigan","manistee","michigan,manistee",26101
+"michigan","marquette","michigan,marquette",26103
+"michigan","mason","michigan,mason",26105
+"michigan","mecosta","michigan,mecosta",26107
+"michigan","menominee","michigan,menominee",26109
+"michigan","midland","michigan,midland",26111
+"michigan","missaukee","michigan,missaukee",26113
+"michigan","monroe","michigan,monroe",26115
+"michigan","montcalm","michigan,montcalm",26117
+"michigan","montmorency","michigan,montmorency",26119
+"michigan","muskegon","michigan,muskegon",26121
+"michigan","newaygo","michigan,newaygo",26123
+"michigan","oakland","michigan,oakland",26125
+"michigan","oceana","michigan,oceana",26127
+"michigan","ogemaw","michigan,ogemaw",26129
+"michigan","ontonagon","michigan,ontonagon",26131
+"michigan","osceola","michigan,osceola",26133
+"michigan","oscoda","michigan,oscoda",26135
+"michigan","otsego","michigan,otsego",26137
+"michigan","ottawa","michigan,ottawa",26139
+"michigan","presque isle","michigan,presque isle",26141
+"michigan","roscommon","michigan,roscommon",26143
+"michigan","saginaw","michigan,saginaw",26145
+"michigan","sanilac","michigan,sanilac",26151
+"michigan","schoolcraft","michigan,schoolcraft",26153
+"michigan","shiawassee","michigan,shiawassee",26155
+"michigan","st clair","michigan,st clair",26147
+"michigan","st joseph","michigan,st joseph",26149
+"michigan","tuscola","michigan,tuscola",26157
+"michigan","van buren","michigan,van buren",26159
+"michigan","washtenaw","michigan,washtenaw",26161
+"michigan","wayne","michigan,wayne",26163
+"michigan","wexford","michigan,wexford",26165
+"minnesota","aitkin","minnesota,aitkin",27001
+"minnesota","anoka","minnesota,anoka",27003
+"minnesota","becker","minnesota,becker",27005
+"minnesota","beltrami","minnesota,beltrami",27007
+"minnesota","benton","minnesota,benton",27009
+"minnesota","big stone","minnesota,big stone",27011
+"minnesota","blue earth","minnesota,blue earth",27013
+"minnesota","brown","minnesota,brown",27015
+"minnesota","carlton","minnesota,carlton",27017
+"minnesota","carver","minnesota,carver",27019
+"minnesota","cass","minnesota,cass",27021
+"minnesota","chippewa","minnesota,chippewa",27023
+"minnesota","chisago","minnesota,chisago",27025
+"minnesota","clay","minnesota,clay",27027
+"minnesota","clearwater","minnesota,clearwater",27029
+"minnesota","cook","minnesota,cook",27031
+"minnesota","cottonwood","minnesota,cottonwood",27033
+"minnesota","crow wing","minnesota,crow wing",27035
+"minnesota","dakota","minnesota,dakota",27037
+"minnesota","dodge","minnesota,dodge",27039
+"minnesota","douglas","minnesota,douglas",27041
+"minnesota","faribault","minnesota,faribault",27043
+"minnesota","fillmore","minnesota,fillmore",27045
+"minnesota","freeborn","minnesota,freeborn",27047
+"minnesota","goodhue","minnesota,goodhue",27049
+"minnesota","grant","minnesota,grant",27051
+"minnesota","hennepin","minnesota,hennepin",27053
+"minnesota","houston","minnesota,houston",27055
+"minnesota","hubbard","minnesota,hubbard",27057
+"minnesota","isanti","minnesota,isanti",27059
+"minnesota","itasca","minnesota,itasca",27061
+"minnesota","jackson","minnesota,jackson",27063
+"minnesota","kanabec","minnesota,kanabec",27065
+"minnesota","kandiyohi","minnesota,kandiyohi",27067
+"minnesota","kittson","minnesota,kittson",27069
+"minnesota","koochiching","minnesota,koochiching",27071
+"minnesota","lac qui parle","minnesota,lac qui parle",27073
+"minnesota","lake","minnesota,lake",27075
+"minnesota","lake of the woods","minnesota,lake of the woods",27077
+"minnesota","le sueur","minnesota,le sueur",27079
+"minnesota","lincoln","minnesota,lincoln",27081
+"minnesota","lyon","minnesota,lyon",27083
+"minnesota","mahnomen","minnesota,mahnomen",27087
+"minnesota","marshall","minnesota,marshall",27089
+"minnesota","martin","minnesota,martin",27091
+"minnesota","mcleod","minnesota,mcleod",27085
+"minnesota","meeker","minnesota,meeker",27093
+"minnesota","mille lacs","minnesota,mille lacs",27095
+"minnesota","morrison","minnesota,morrison",27097
+"minnesota","mower","minnesota,mower",27099
+"minnesota","murray","minnesota,murray",27101
+"minnesota","nicollet","minnesota,nicollet",27103
+"minnesota","nobles","minnesota,nobles",27105
+"minnesota","norman","minnesota,norman",27107
+"minnesota","olmsted","minnesota,olmsted",27109
+"minnesota","otter tail","minnesota,otter tail",27111
+"minnesota","pennington","minnesota,pennington",27113
+"minnesota","pine","minnesota,pine",27115
+"minnesota","pipestone","minnesota,pipestone",27117
+"minnesota","polk","minnesota,polk",27119
+"minnesota","pope","minnesota,pope",27121
+"minnesota","ramsey","minnesota,ramsey",27123
+"minnesota","red lake","minnesota,red lake",27125
+"minnesota","redwood","minnesota,redwood",27127
+"minnesota","renville","minnesota,renville",27129
+"minnesota","rice","minnesota,rice",27131
+"minnesota","rock","minnesota,rock",27133
+"minnesota","roseau","minnesota,roseau",27135
+"minnesota","scott","minnesota,scott",27139
+"minnesota","sherburne","minnesota,sherburne",27141
+"minnesota","sibley","minnesota,sibley",27143
+"minnesota","st louis","minnesota,st louis",27137
+"minnesota","stearns","minnesota,stearns",27145
+"minnesota","steele","minnesota,steele",27147
+"minnesota","stevens","minnesota,stevens",27149
+"minnesota","swift","minnesota,swift",27151
+"minnesota","todd","minnesota,todd",27153
+"minnesota","traverse","minnesota,traverse",27155
+"minnesota","wabasha","minnesota,wabasha",27157
+"minnesota","wadena","minnesota,wadena",27159
+"minnesota","waseca","minnesota,waseca",27161
+"minnesota","washington","minnesota,washington",27163
+"minnesota","watonwan","minnesota,watonwan",27165
+"minnesota","wilkin","minnesota,wilkin",27167
+"minnesota","winona","minnesota,winona",27169
+"minnesota","wright","minnesota,wright",27171
+"minnesota","yellow medicine","minnesota,yellow medicine",27173
+"mississippi","adams","mississippi,adams",28001
+"mississippi","alcorn","mississippi,alcorn",28003
+"mississippi","amite","mississippi,amite",28005
+"mississippi","attala","mississippi,attala",28007
+"mississippi","benton","mississippi,benton",28009
+"mississippi","bolivar","mississippi,bolivar",28011
+"mississippi","calhoun","mississippi,calhoun",28013
+"mississippi","carroll","mississippi,carroll",28015
+"mississippi","chickasaw","mississippi,chickasaw",28017
+"mississippi","choctaw","mississippi,choctaw",28019
+"mississippi","claiborne","mississippi,claiborne",28021
+"mississippi","clarke","mississippi,clarke",28023
+"mississippi","clay","mississippi,clay",28025
+"mississippi","coahoma","mississippi,coahoma",28027
+"mississippi","copiah","mississippi,copiah",28029
+"mississippi","covington","mississippi,covington",28031
+"mississippi","de soto","mississippi,de soto",28033
+"mississippi","forrest","mississippi,forrest",28035
+"mississippi","franklin","mississippi,franklin",28037
+"mississippi","george","mississippi,george",28039
+"mississippi","greene","mississippi,greene",28041
+"mississippi","grenada","mississippi,grenada",28043
+"mississippi","hancock","mississippi,hancock",28045
+"mississippi","harrison","mississippi,harrison",28047
+"mississippi","hinds","mississippi,hinds",28049
+"mississippi","holmes","mississippi,holmes",28051
+"mississippi","humphreys","mississippi,humphreys",28053
+"mississippi","issaquena","mississippi,issaquena",28055
+"mississippi","itawamba","mississippi,itawamba",28057
+"mississippi","jackson","mississippi,jackson",28059
+"mississippi","jasper","mississippi,jasper",28061
+"mississippi","jefferson","mississippi,jefferson",28063
+"mississippi","jefferson davis","mississippi,jefferson davis",28065
+"mississippi","jones","mississippi,jones",28067
+"mississippi","kemper","mississippi,kemper",28069
+"mississippi","lafayette","mississippi,lafayette",28071
+"mississippi","lamar","mississippi,lamar",28073
+"mississippi","lauderdale","mississippi,lauderdale",28075
+"mississippi","lawrence","mississippi,lawrence",28077
+"mississippi","leake","mississippi,leake",28079
+"mississippi","lee","mississippi,lee",28081
+"mississippi","leflore","mississippi,leflore",28083
+"mississippi","lincoln","mississippi,lincoln",28085
+"mississippi","lowndes","mississippi,lowndes",28087
+"mississippi","madison","mississippi,madison",28089
+"mississippi","marion","mississippi,marion",28091
+"mississippi","marshall","mississippi,marshall",28093
+"mississippi","monroe","mississippi,monroe",28095
+"mississippi","montgomery","mississippi,montgomery",28097
+"mississippi","neshoba","mississippi,neshoba",28099
+"mississippi","newton","mississippi,newton",28101
+"mississippi","noxubee","mississippi,noxubee",28103
+"mississippi","oktibbeha","mississippi,oktibbeha",28105
+"mississippi","panola","mississippi,panola",28107
+"mississippi","pearl river","mississippi,pearl river",28109
+"mississippi","perry","mississippi,perry",28111
+"mississippi","pike","mississippi,pike",28113
+"mississippi","pontotoc","mississippi,pontotoc",28115
+"mississippi","prentiss","mississippi,prentiss",28117
+"mississippi","quitman","mississippi,quitman",28119
+"mississippi","rankin","mississippi,rankin",28121
+"mississippi","scott","mississippi,scott",28123
+"mississippi","sharkey","mississippi,sharkey",28125
+"mississippi","simpson","mississippi,simpson",28127
+"mississippi","smith","mississippi,smith",28129
+"mississippi","stone","mississippi,stone",28131
+"mississippi","sunflower","mississippi,sunflower",28133
+"mississippi","tallahatchie","mississippi,tallahatchie",28135
+"mississippi","tate","mississippi,tate",28137
+"mississippi","tippah","mississippi,tippah",28139
+"mississippi","tishomingo","mississippi,tishomingo",28141
+"mississippi","tunica","mississippi,tunica",28143
+"mississippi","union","mississippi,union",28145
+"mississippi","walthall","mississippi,walthall",28147
+"mississippi","warren","mississippi,warren",28149
+"mississippi","washington","mississippi,washington",28151
+"mississippi","wayne","mississippi,wayne",28153
+"mississippi","webster","mississippi,webster",28155
+"mississippi","wilkinson","mississippi,wilkinson",28157
+"mississippi","winston","mississippi,winston",28159
+"mississippi","yalobusha","mississippi,yalobusha",28161
+"mississippi","yazoo","mississippi,yazoo",28163
+"missouri","adair","missouri,adair",29001
+"missouri","andrew","missouri,andrew",29003
+"missouri","atchison","missouri,atchison",29005
+"missouri","audrain","missouri,audrain",29007
+"missouri","barry","missouri,barry",29009
+"missouri","barton","missouri,barton",29011
+"missouri","bates","missouri,bates",29013
+"missouri","benton","missouri,benton",29015
+"missouri","bollinger","missouri,bollinger",29017
+"missouri","boone","missouri,boone",29019
+"missouri","buchanan","missouri,buchanan",29021
+"missouri","butler","missouri,butler",29023
+"missouri","caldwell","missouri,caldwell",29025
+"missouri","callaway","missouri,callaway",29027
+"missouri","camden","missouri,camden",29029
+"missouri","cape girardeau","missouri,cape girardeau",29031
+"missouri","carroll","missouri,carroll",29033
+"missouri","carter","missouri,carter",29035
+"missouri","cass","missouri,cass",29037
+"missouri","cedar","missouri,cedar",29039
+"missouri","chariton","missouri,chariton",29041
+"missouri","christian","missouri,christian",29043
+"missouri","clark","missouri,clark",29045
+"missouri","clay","missouri,clay",29047
+"missouri","clinton","missouri,clinton",29049
+"missouri","cole","missouri,cole",29051
+"missouri","cooper","missouri,cooper",29053
+"missouri","crawford","missouri,crawford",29055
+"missouri","dade","missouri,dade",29057
+"missouri","dallas","missouri,dallas",29059
+"missouri","daviess","missouri,daviess",29061
+"missouri","de kalb","missouri,de kalb",29063
+"missouri","dent","missouri,dent",29065
+"missouri","douglas","missouri,douglas",29067
+"missouri","dunklin","missouri,dunklin",29069
+"missouri","franklin","missouri,franklin",29071
+"missouri","gasconade","missouri,gasconade",29073
+"missouri","gentry","missouri,gentry",29075
+"missouri","greene","missouri,greene",29077
+"missouri","grundy","missouri,grundy",29079
+"missouri","harrison","missouri,harrison",29081
+"missouri","henry","missouri,henry",29083
+"missouri","hickory","missouri,hickory",29085
+"missouri","holt","missouri,holt",29087
+"missouri","howard","missouri,howard",29089
+"missouri","howell","missouri,howell",29091
+"missouri","iron","missouri,iron",29093
+"missouri","jackson","missouri,jackson",29095
+"missouri","jasper","missouri,jasper",29097
+"missouri","jefferson","missouri,jefferson",29099
+"missouri","johnson","missouri,johnson",29101
+"missouri","knox","missouri,knox",29103
+"missouri","laclede","missouri,laclede",29105
+"missouri","lafayette","missouri,lafayette",29107
+"missouri","lawrence","missouri,lawrence",29109
+"missouri","lewis","missouri,lewis",29111
+"missouri","lincoln","missouri,lincoln",29113
+"missouri","linn","missouri,linn",29115
+"missouri","livingston","missouri,livingston",29117
+"missouri","macon","missouri,macon",29121
+"missouri","madison","missouri,madison",29123
+"missouri","maries","missouri,maries",29125
+"missouri","marion","missouri,marion",29127
+"missouri","mcdonald","missouri,mcdonald",29119
+"missouri","mercer","missouri,mercer",29129
+"missouri","miller","missouri,miller",29131
+"missouri","mississippi","missouri,mississippi",29133
+"missouri","moniteau","missouri,moniteau",29135
+"missouri","monroe","missouri,monroe",29137
+"missouri","montgomery","missouri,montgomery",29139
+"missouri","morgan","missouri,morgan",29141
+"missouri","new madrid","missouri,new madrid",29143
+"missouri","newton","missouri,newton",29145
+"missouri","nodaway","missouri,nodaway",29147
+"missouri","oregon","missouri,oregon",29149
+"missouri","osage","missouri,osage",29151
+"missouri","ozark","missouri,ozark",29153
+"missouri","pemiscot","missouri,pemiscot",29155
+"missouri","perry","missouri,perry",29157
+"missouri","pettis","missouri,pettis",29159
+"missouri","phelps","missouri,phelps",29161
+"missouri","pike","missouri,pike",29163
+"missouri","platte","missouri,platte",29165
+"missouri","polk","missouri,polk",29167
+"missouri","pulaski","missouri,pulaski",29169
+"missouri","putnam","missouri,putnam",29171
+"missouri","ralls","missouri,ralls",29173
+"missouri","randolph","missouri,randolph",29175
+"missouri","ray","missouri,ray",29177
+"missouri","reynolds","missouri,reynolds",29179
+"missouri","ripley","missouri,ripley",29181
+"missouri","saline","missouri,saline",29195
+"missouri","schuyler","missouri,schuyler",29197
+"missouri","scotland","missouri,scotland",29199
+"missouri","scott","missouri,scott",29201
+"missouri","shannon","missouri,shannon",29203
+"missouri","shelby","missouri,shelby",29205
+"missouri","st charles","missouri,st charles",29183
+"missouri","st clair","missouri,st clair",29185
+"missouri","st francois","missouri,st francois",29187
+"missouri","st louis","missouri,st louis",29189
+"missouri","st louis city","missouri,st louis city",29510
+"missouri","ste genevieve","missouri,ste genevieve",29186
+"missouri","stoddard","missouri,stoddard",29207
+"missouri","stone","missouri,stone",29209
+"missouri","sullivan","missouri,sullivan",29211
+"missouri","taney","missouri,taney",29213
+"missouri","texas","missouri,texas",29215
+"missouri","vernon","missouri,vernon",29217
+"missouri","warren","missouri,warren",29219
+"missouri","washington","missouri,washington",29221
+"missouri","wayne","missouri,wayne",29223
+"missouri","webster","missouri,webster",29225
+"missouri","worth","missouri,worth",29227
+"missouri","wright","missouri,wright",29229
+"montana","beaverhead","montana,beaverhead",30001
+"montana","big horn","montana,big horn",30003
+"montana","blaine","montana,blaine",30005
+"montana","broadwater","montana,broadwater",30007
+"montana","carbon","montana,carbon",30009
+"montana","carter","montana,carter",30011
+"montana","cascade","montana,cascade",30013
+"montana","chouteau","montana,chouteau",30015
+"montana","custer","montana,custer",30017
+"montana","daniels","montana,daniels",30019
+"montana","dawson","montana,dawson",30021
+"montana","deer lodge","montana,deer lodge",30023
+"montana","fallon","montana,fallon",30025
+"montana","fergus","montana,fergus",30027
+"montana","flathead","montana,flathead",30029
+"montana","gallatin","montana,gallatin",30031
+"montana","garfield","montana,garfield",30033
+"montana","glacier","montana,glacier",30035
+"montana","golden valley","montana,golden valley",30037
+"montana","granite","montana,granite",30039
+"montana","hill","montana,hill",30041
+"montana","jefferson","montana,jefferson",30043
+"montana","judith basin","montana,judith basin",30045
+"montana","lake","montana,lake",30047
+"montana","lewis and clark","montana,lewis and clark",30049
+"montana","liberty","montana,liberty",30051
+"montana","lincoln","montana,lincoln",30053
+"montana","madison","montana,madison",30057
+"montana","mccone","montana,mccone",30055
+"montana","meagher","montana,meagher",30059
+"montana","mineral","montana,mineral",30061
+"montana","missoula","montana,missoula",30063
+"montana","musselshell","montana,musselshell",30065
+"montana","park","montana,park",30067
+"montana","petroleum","montana,petroleum",30069
+"montana","phillips","montana,phillips",30071
+"montana","pondera","montana,pondera",30073
+"montana","powder river","montana,powder river",30075
+"montana","powell","montana,powell",30077
+"montana","prairie","montana,prairie",30079
+"montana","ravalli","montana,ravalli",30081
+"montana","richland","montana,richland",30083
+"montana","roosevelt","montana,roosevelt",30085
+"montana","rosebud","montana,rosebud",30087
+"montana","sanders","montana,sanders",30089
+"montana","sheridan","montana,sheridan",30091
+"montana","silver bow","montana,silver bow",30093
+"montana","stillwater","montana,stillwater",30095
+"montana","sweet grass","montana,sweet grass",30097
+"montana","teton","montana,teton",30099
+"montana","toole","montana,toole",30101
+"montana","treasure","montana,treasure",30103
+"montana","valley","montana,valley",30105
+"montana","wheatland","montana,wheatland",30107
+"montana","wibaux","montana,wibaux",30109
+"montana","yellowstone","montana,yellowstone",30111
+"montana","yellowstone national","montana,yellowstone national",30067
+"nebraska","adams","nebraska,adams",31001
+"nebraska","antelope","nebraska,antelope",31003
+"nebraska","arthur","nebraska,arthur",31005
+"nebraska","banner","nebraska,banner",31007
+"nebraska","blaine","nebraska,blaine",31009
+"nebraska","boone","nebraska,boone",31011
+"nebraska","box butte","nebraska,box butte",31013
+"nebraska","boyd","nebraska,boyd",31015
+"nebraska","brown","nebraska,brown",31017
+"nebraska","buffalo","nebraska,buffalo",31019
+"nebraska","burt","nebraska,burt",31021
+"nebraska","butler","nebraska,butler",31023
+"nebraska","cass","nebraska,cass",31025
+"nebraska","cedar","nebraska,cedar",31027
+"nebraska","chase","nebraska,chase",31029
+"nebraska","cherry","nebraska,cherry",31031
+"nebraska","cheyenne","nebraska,cheyenne",31033
+"nebraska","clay","nebraska,clay",31035
+"nebraska","colfax","nebraska,colfax",31037
+"nebraska","cuming","nebraska,cuming",31039
+"nebraska","custer","nebraska,custer",31041
+"nebraska","dakota","nebraska,dakota",31043
+"nebraska","dawes","nebraska,dawes",31045
+"nebraska","dawson","nebraska,dawson",31047
+"nebraska","deuel","nebraska,deuel",31049
+"nebraska","dixon","nebraska,dixon",31051
+"nebraska","dodge","nebraska,dodge",31053
+"nebraska","douglas","nebraska,douglas",31055
+"nebraska","dundy","nebraska,dundy",31057
+"nebraska","fillmore","nebraska,fillmore",31059
+"nebraska","franklin","nebraska,franklin",31061
+"nebraska","frontier","nebraska,frontier",31063
+"nebraska","furnas","nebraska,furnas",31065
+"nebraska","gage","nebraska,gage",31067
+"nebraska","garden","nebraska,garden",31069
+"nebraska","garfield","nebraska,garfield",31071
+"nebraska","gosper","nebraska,gosper",31073
+"nebraska","grant","nebraska,grant",31075
+"nebraska","greeley","nebraska,greeley",31077
+"nebraska","hall","nebraska,hall",31079
+"nebraska","hamilton","nebraska,hamilton",31081
+"nebraska","harlan","nebraska,harlan",31083
+"nebraska","hayes","nebraska,hayes",31085
+"nebraska","hitchcock","nebraska,hitchcock",31087
+"nebraska","holt","nebraska,holt",31089
+"nebraska","hooker","nebraska,hooker",31091
+"nebraska","howard","nebraska,howard",31093
+"nebraska","jefferson","nebraska,jefferson",31095
+"nebraska","johnson","nebraska,johnson",31097
+"nebraska","kearney","nebraska,kearney",31099
+"nebraska","keith","nebraska,keith",31101
+"nebraska","keya paha","nebraska,keya paha",31103
+"nebraska","kimball","nebraska,kimball",31105
+"nebraska","knox","nebraska,knox",31107
+"nebraska","lancaster","nebraska,lancaster",31109
+"nebraska","lincoln","nebraska,lincoln",31111
+"nebraska","logan","nebraska,logan",31113
+"nebraska","loup","nebraska,loup",31115
+"nebraska","madison","nebraska,madison",31119
+"nebraska","mcpherson","nebraska,mcpherson",31117
+"nebraska","merrick","nebraska,merrick",31121
+"nebraska","morrill","nebraska,morrill",31123
+"nebraska","nance","nebraska,nance",31125
+"nebraska","nemaha","nebraska,nemaha",31127
+"nebraska","nuckolls","nebraska,nuckolls",31129
+"nebraska","otoe","nebraska,otoe",31131
+"nebraska","pawnee","nebraska,pawnee",31133
+"nebraska","perkins","nebraska,perkins",31135
+"nebraska","phelps","nebraska,phelps",31137
+"nebraska","pierce","nebraska,pierce",31139
+"nebraska","platte","nebraska,platte",31141
+"nebraska","polk","nebraska,polk",31143
+"nebraska","red willow","nebraska,red willow",31145
+"nebraska","richardson","nebraska,richardson",31147
+"nebraska","rock","nebraska,rock",31149
+"nebraska","saline","nebraska,saline",31151
+"nebraska","sarpy","nebraska,sarpy",31153
+"nebraska","saunders","nebraska,saunders",31155
+"nebraska","scotts bluff","nebraska,scotts bluff",31157
+"nebraska","seward","nebraska,seward",31159
+"nebraska","sheridan","nebraska,sheridan",31161
+"nebraska","sherman","nebraska,sherman",31163
+"nebraska","sioux","nebraska,sioux",31165
+"nebraska","stanton","nebraska,stanton",31167
+"nebraska","thayer","nebraska,thayer",31169
+"nebraska","thomas","nebraska,thomas",31171
+"nebraska","thurston","nebraska,thurston",31173
+"nebraska","valley","nebraska,valley",31175
+"nebraska","washington","nebraska,washington",31177
+"nebraska","wayne","nebraska,wayne",31179
+"nebraska","webster","nebraska,webster",31181
+"nebraska","wheeler","nebraska,wheeler",31183
+"nebraska","york","nebraska,york",31185
+"nevada","carson city","nevada,carson city",32510
+"nevada","churchill","nevada,churchill",32001
+"nevada","clark","nevada,clark",32003
+"nevada","douglas","nevada,douglas",32005
+"nevada","elko","nevada,elko",32007
+"nevada","esmeralda","nevada,esmeralda",32009
+"nevada","eureka","nevada,eureka",32011
+"nevada","humboldt","nevada,humboldt",32013
+"nevada","lander","nevada,lander",32015
+"nevada","lincoln","nevada,lincoln",32017
+"nevada","lyon","nevada,lyon",32019
+"nevada","mineral","nevada,mineral",32021
+"nevada","nye","nevada,nye",32023
+"nevada","pershing","nevada,pershing",32027
+"nevada","storey","nevada,storey",32029
+"nevada","washoe","nevada,washoe",32031
+"nevada","white pine","nevada,white pine",32033
+"new hampshire","belknap","new hampshire,belknap",33001
+"new hampshire","carroll","new hampshire,carroll",33003
+"new hampshire","cheshire","new hampshire,cheshire",33005
+"new hampshire","coos","new hampshire,coos",33007
+"new hampshire","grafton","new hampshire,grafton",33009
+"new hampshire","hillsborough","new hampshire,hillsborough",33011
+"new hampshire","merrimack","new hampshire,merrimack",33013
+"new hampshire","rockingham","new hampshire,rockingham",33015
+"new hampshire","strafford","new hampshire,strafford",33017
+"new hampshire","sullivan","new hampshire,sullivan",33019
+"new jersey","atlantic","new jersey,atlantic",34001
+"new jersey","bergen","new jersey,bergen",34003
+"new jersey","burlington","new jersey,burlington",34005
+"new jersey","camden","new jersey,camden",34007
+"new jersey","cape may","new jersey,cape may",34009
+"new jersey","cumberland","new jersey,cumberland",34011
+"new jersey","essex","new jersey,essex",34013
+"new jersey","gloucester","new jersey,gloucester",34015
+"new jersey","hudson","new jersey,hudson",34017
+"new jersey","hunterdon","new jersey,hunterdon",34019
+"new jersey","mercer","new jersey,mercer",34021
+"new jersey","middlesex","new jersey,middlesex",34023
+"new jersey","monmouth","new jersey,monmouth",34025
+"new jersey","morris","new jersey,morris",34027
+"new jersey","ocean","new jersey,ocean",34029
+"new jersey","passaic","new jersey,passaic",34031
+"new jersey","salem","new jersey,salem",34033
+"new jersey","somerset","new jersey,somerset",34035
+"new jersey","sussex","new jersey,sussex",34037
+"new jersey","union","new jersey,union",34039
+"new jersey","warren","new jersey,warren",34041
+"new mexico","bernalillo","new mexico,bernalillo",35001
+"new mexico","catron","new mexico,catron",35003
+"new mexico","chaves","new mexico,chaves",35005
+"new mexico","cibola","new mexico,cibola",35006
+"new mexico","colfax","new mexico,colfax",35007
+"new mexico","curry","new mexico,curry",35009
+"new mexico","de baca","new mexico,de baca",35011
+"new mexico","dona ana","new mexico,dona ana",35013
+"new mexico","eddy","new mexico,eddy",35015
+"new mexico","grant","new mexico,grant",35017
+"new mexico","guadalupe","new mexico,guadalupe",35019
+"new mexico","harding","new mexico,harding",35021
+"new mexico","hidalgo","new mexico,hidalgo",35023
+"new mexico","lea","new mexico,lea",35025
+"new mexico","lincoln","new mexico,lincoln",35027
+"new mexico","los alamos","new mexico,los alamos",35028
+"new mexico","luna","new mexico,luna",35029
+"new mexico","mckinley","new mexico,mckinley",35031
+"new mexico","mora","new mexico,mora",35033
+"new mexico","otero","new mexico,otero",35035
+"new mexico","quay","new mexico,quay",35037
+"new mexico","rio arriba","new mexico,rio arriba",35039
+"new mexico","roosevelt","new mexico,roosevelt",35041
+"new mexico","san juan","new mexico,san juan",35045
+"new mexico","san miguel","new mexico,san miguel",35047
+"new mexico","sandoval","new mexico,sandoval",35043
+"new mexico","santa fe","new mexico,santa fe",35049
+"new mexico","sierra","new mexico,sierra",35051
+"new mexico","socorro","new mexico,socorro",35053
+"new mexico","taos","new mexico,taos",35055
+"new mexico","torrance","new mexico,torrance",35057
+"new mexico","union","new mexico,union",35059
+"new mexico","valencia","new mexico,valencia",35061
+"new york","albany","new york,albany",36001
+"new york","allegany","new york,allegany",36003
+"new york","bronx","new york,bronx",36005
+"new york","broome","new york,broome",36007
+"new york","cattaraugus","new york,cattaraugus",36009
+"new york","cayuga","new york,cayuga",36011
+"new york","chautauqua","new york,chautauqua",36013
+"new york","chemung","new york,chemung",36015
+"new york","chenango","new york,chenango",36017
+"new york","clinton","new york,clinton",36019
+"new york","columbia","new york,columbia",36021
+"new york","cortland","new york,cortland",36023
+"new york","delaware","new york,delaware",36025
+"new york","dutchess","new york,dutchess",36027
+"new york","erie","new york,erie",36029
+"new york","essex","new york,essex",36031
+"new york","franklin","new york,franklin",36033
+"new york","fulton","new york,fulton",36035
+"new york","genesee","new york,genesee",36037
+"new york","greene","new york,greene",36039
+"new york","hamilton","new york,hamilton",36041
+"new york","herkimer","new york,herkimer",36043
+"new york","jefferson","new york,jefferson",36045
+"new york","kings","new york,kings",36047
+"new york","lewis","new york,lewis",36049
+"new york","livingston","new york,livingston",36051
+"new york","madison","new york,madison",36053
+"new york","monroe","new york,monroe",36055
+"new york","montgomery","new york,montgomery",36057
+"new york","nassau","new york,nassau",36059
+"new york","new york","new york,new york",36061
+"new york","niagara","new york,niagara",36063
+"new york","oneida","new york,oneida",36065
+"new york","onondaga","new york,onondaga",36067
+"new york","ontario","new york,ontario",36069
+"new york","orange","new york,orange",36071
+"new york","orleans","new york,orleans",36073
+"new york","oswego","new york,oswego",36075
+"new york","otsego","new york,otsego",36077
+"new york","putnam","new york,putnam",36079
+"new york","queens","new york,queens",36081
+"new york","rensselaer","new york,rensselaer",36083
+"new york","richmond","new york,richmond",36085
+"new york","rockland","new york,rockland",36087
+"new york","saratoga","new york,saratoga",36091
+"new york","schenectady","new york,schenectady",36093
+"new york","schoharie","new york,schoharie",36095
+"new york","schuyler","new york,schuyler",36097
+"new york","seneca","new york,seneca",36099
+"new york","st lawrence","new york,st lawrence",36089
+"new york","steuben","new york,steuben",36101
+"new york","suffolk","new york,suffolk",36103
+"new york","sullivan","new york,sullivan",36105
+"new york","tioga","new york,tioga",36107
+"new york","tompkins","new york,tompkins",36109
+"new york","ulster","new york,ulster",36111
+"new york","warren","new york,warren",36113
+"new york","washington","new york,washington",36115
+"new york","wayne","new york,wayne",36117
+"new york","westchester","new york,westchester",36119
+"new york","wyoming","new york,wyoming",36121
+"new york","yates","new york,yates",36123
+"north carolina","alamance","north carolina,alamance",37001
+"north carolina","alexander","north carolina,alexander",37003
+"north carolina","alleghany","north carolina,alleghany",37005
+"north carolina","anson","north carolina,anson",37007
+"north carolina","ashe","north carolina,ashe",37009
+"north carolina","avery","north carolina,avery",37011
+"north carolina","beaufort","north carolina,beaufort",37013
+"north carolina","bertie","north carolina,bertie",37015
+"north carolina","bladen","north carolina,bladen",37017
+"north carolina","brunswick","north carolina,brunswick",37019
+"north carolina","buncombe","north carolina,buncombe",37021
+"north carolina","burke","north carolina,burke",37023
+"north carolina","cabarrus","north carolina,cabarrus",37025
+"north carolina","caldwell","north carolina,caldwell",37027
+"north carolina","camden","north carolina,camden",37029
+"north carolina","carteret","north carolina,carteret",37031
+"north carolina","caswell","north carolina,caswell",37033
+"north carolina","catawba","north carolina,catawba",37035
+"north carolina","chatham","north carolina,chatham",37037
+"north carolina","cherokee","north carolina,cherokee",37039
+"north carolina","chowan","north carolina,chowan",37041
+"north carolina","clay","north carolina,clay",37043
+"north carolina","cleveland","north carolina,cleveland",37045
+"north carolina","columbus","north carolina,columbus",37047
+"north carolina","craven","north carolina,craven",37049
+"north carolina","cumberland","north carolina,cumberland",37051
+"north carolina","currituck","north carolina,currituck",37053
+"north carolina","dare","north carolina,dare",37055
+"north carolina","davidson","north carolina,davidson",37057
+"north carolina","davie","north carolina,davie",37059
+"north carolina","duplin","north carolina,duplin",37061
+"north carolina","durham","north carolina,durham",37063
+"north carolina","edgecombe","north carolina,edgecombe",37065
+"north carolina","forsyth","north carolina,forsyth",37067
+"north carolina","franklin","north carolina,franklin",37069
+"north carolina","gaston","north carolina,gaston",37071
+"north carolina","gates","north carolina,gates",37073
+"north carolina","graham","north carolina,graham",37075
+"north carolina","granville","north carolina,granville",37077
+"north carolina","greene","north carolina,greene",37079
+"north carolina","guilford","north carolina,guilford",37081
+"north carolina","halifax","north carolina,halifax",37083
+"north carolina","harnett","north carolina,harnett",37085
+"north carolina","haywood","north carolina,haywood",37087
+"north carolina","henderson","north carolina,henderson",37089
+"north carolina","hertford","north carolina,hertford",37091
+"north carolina","hoke","north carolina,hoke",37093
+"north carolina","hyde","north carolina,hyde",37095
+"north carolina","iredell","north carolina,iredell",37097
+"north carolina","jackson","north carolina,jackson",37099
+"north carolina","johnston","north carolina,johnston",37101
+"north carolina","jones","north carolina,jones",37103
+"north carolina","lee","north carolina,lee",37105
+"north carolina","lenoir","north carolina,lenoir",37107
+"north carolina","lincoln","north carolina,lincoln",37109
+"north carolina","macon","north carolina,macon",37113
+"north carolina","madison","north carolina,madison",37115
+"north carolina","martin","north carolina,martin",37117
+"north carolina","mcdowell","north carolina,mcdowell",37111
+"north carolina","mecklenburg","north carolina,mecklenburg",37119
+"north carolina","mitchell","north carolina,mitchell",37121
+"north carolina","montgomery","north carolina,montgomery",37123
+"north carolina","moore","north carolina,moore",37125
+"north carolina","nash","north carolina,nash",37127
+"north carolina","new hanover","north carolina,new hanover",37129
+"north carolina","northampton","north carolina,northampton",37131
+"north carolina","onslow","north carolina,onslow",37133
+"north carolina","orange","north carolina,orange",37135
+"north carolina","pamlico","north carolina,pamlico",37137
+"north carolina","pasquotank","north carolina,pasquotank",37139
+"north carolina","pender","north carolina,pender",37141
+"north carolina","perquimans","north carolina,perquimans",37143
+"north carolina","person","north carolina,person",37145
+"north carolina","pitt","north carolina,pitt",37147
+"north carolina","polk","north carolina,polk",37149
+"north carolina","randolph","north carolina,randolph",37151
+"north carolina","richmond","north carolina,richmond",37153
+"north carolina","robeson","north carolina,robeson",37155
+"north carolina","rockingham","north carolina,rockingham",37157
+"north carolina","rowan","north carolina,rowan",37159
+"north carolina","rutherford","north carolina,rutherford",37161
+"north carolina","sampson","north carolina,sampson",37163
+"north carolina","scotland","north carolina,scotland",37165
+"north carolina","stanly","north carolina,stanly",37167
+"north carolina","stokes","north carolina,stokes",37169
+"north carolina","surry","north carolina,surry",37171
+"north carolina","swain","north carolina,swain",37173
+"north carolina","transylvania","north carolina,transylvania",37175
+"north carolina","tyrrell","north carolina,tyrrell",37177
+"north carolina","union","north carolina,union",37179
+"north carolina","vance","north carolina,vance",37181
+"north carolina","wake","north carolina,wake",37183
+"north carolina","warren","north carolina,warren",37185
+"north carolina","washington","north carolina,washington",37187
+"north carolina","watauga","north carolina,watauga",37189
+"north carolina","wayne","north carolina,wayne",37191
+"north carolina","wilkes","north carolina,wilkes",37193
+"north carolina","wilson","north carolina,wilson",37195
+"north carolina","yadkin","north carolina,yadkin",37197
+"north carolina","yancey","north carolina,yancey",37199
+"north dakota","adams","north dakota,adams",38001
+"north dakota","barnes","north dakota,barnes",38003
+"north dakota","benson","north dakota,benson",38005
+"north dakota","billings","north dakota,billings",38007
+"north dakota","bottineau","north dakota,bottineau",38009
+"north dakota","bowman","north dakota,bowman",38011
+"north dakota","burke","north dakota,burke",38013
+"north dakota","burleigh","north dakota,burleigh",38015
+"north dakota","cass","north dakota,cass",38017
+"north dakota","cavalier","north dakota,cavalier",38019
+"north dakota","dickey","north dakota,dickey",38021
+"north dakota","divide","north dakota,divide",38023
+"north dakota","dunn","north dakota,dunn",38025
+"north dakota","eddy","north dakota,eddy",38027
+"north dakota","emmons","north dakota,emmons",38029
+"north dakota","foster","north dakota,foster",38031
+"north dakota","golden valley","north dakota,golden valley",38033
+"north dakota","grand forks","north dakota,grand forks",38035
+"north dakota","grant","north dakota,grant",38037
+"north dakota","griggs","north dakota,griggs",38039
+"north dakota","hettinger","north dakota,hettinger",38041
+"north dakota","kidder","north dakota,kidder",38043
+"north dakota","la moure","north dakota,la moure",38045
+"north dakota","logan","north dakota,logan",38047
+"north dakota","mchenry","north dakota,mchenry",38049
+"north dakota","mcintosh","north dakota,mcintosh",38051
+"north dakota","mckenzie","north dakota,mckenzie",38053
+"north dakota","mclean","north dakota,mclean",38055
+"north dakota","mercer","north dakota,mercer",38057
+"north dakota","morton","north dakota,morton",38059
+"north dakota","mountrail","north dakota,mountrail",38061
+"north dakota","nelson","north dakota,nelson",38063
+"north dakota","oliver","north dakota,oliver",38065
+"north dakota","pembina","north dakota,pembina",38067
+"north dakota","pierce","north dakota,pierce",38069
+"north dakota","ramsey","north dakota,ramsey",38071
+"north dakota","ransom","north dakota,ransom",38073
+"north dakota","renville","north dakota,renville",38075
+"north dakota","richland","north dakota,richland",38077
+"north dakota","rolette","north dakota,rolette",38079
+"north dakota","sargent","north dakota,sargent",38081
+"north dakota","sheridan","north dakota,sheridan",38083
+"north dakota","sioux","north dakota,sioux",38085
+"north dakota","slope","north dakota,slope",38087
+"north dakota","stark","north dakota,stark",38089
+"north dakota","steele","north dakota,steele",38091
+"north dakota","stutsman","north dakota,stutsman",38093
+"north dakota","towner","north dakota,towner",38095
+"north dakota","traill","north dakota,traill",38097
+"north dakota","walsh","north dakota,walsh",38099
+"north dakota","ward","north dakota,ward",38101
+"north dakota","wells","north dakota,wells",38103
+"north dakota","williams","north dakota,williams",38105
+"ohio","adams","ohio,adams",39001
+"ohio","allen","ohio,allen",39003
+"ohio","ashland","ohio,ashland",39005
+"ohio","ashtabula","ohio,ashtabula",39007
+"ohio","athens","ohio,athens",39009
+"ohio","auglaize","ohio,auglaize",39011
+"ohio","belmont","ohio,belmont",39013
+"ohio","brown","ohio,brown",39015
+"ohio","butler","ohio,butler",39017
+"ohio","carroll","ohio,carroll",39019
+"ohio","champaign","ohio,champaign",39021
+"ohio","clark","ohio,clark",39023
+"ohio","clermont","ohio,clermont",39025
+"ohio","clinton","ohio,clinton",39027
+"ohio","columbiana","ohio,columbiana",39029
+"ohio","coshocton","ohio,coshocton",39031
+"ohio","crawford","ohio,crawford",39033
+"ohio","cuyahoga","ohio,cuyahoga",39035
+"ohio","darke","ohio,darke",39037
+"ohio","defiance","ohio,defiance",39039
+"ohio","delaware","ohio,delaware",39041
+"ohio","erie","ohio,erie",39043
+"ohio","fairfield","ohio,fairfield",39045
+"ohio","fayette","ohio,fayette",39047
+"ohio","franklin","ohio,franklin",39049
+"ohio","fulton","ohio,fulton",39051
+"ohio","gallia","ohio,gallia",39053
+"ohio","geauga","ohio,geauga",39055
+"ohio","greene","ohio,greene",39057
+"ohio","guernsey","ohio,guernsey",39059
+"ohio","hamilton","ohio,hamilton",39061
+"ohio","hancock","ohio,hancock",39063
+"ohio","hardin","ohio,hardin",39065
+"ohio","harrison","ohio,harrison",39067
+"ohio","henry","ohio,henry",39069
+"ohio","highland","ohio,highland",39071
+"ohio","hocking","ohio,hocking",39073
+"ohio","holmes","ohio,holmes",39075
+"ohio","huron","ohio,huron",39077
+"ohio","jackson","ohio,jackson",39079
+"ohio","jefferson","ohio,jefferson",39081
+"ohio","knox","ohio,knox",39083
+"ohio","lake","ohio,lake",39085
+"ohio","lawrence","ohio,lawrence",39087
+"ohio","licking","ohio,licking",39089
+"ohio","logan","ohio,logan",39091
+"ohio","lorain","ohio,lorain",39093
+"ohio","lucas","ohio,lucas",39095
+"ohio","madison","ohio,madison",39097
+"ohio","mahoning","ohio,mahoning",39099
+"ohio","marion","ohio,marion",39101
+"ohio","medina","ohio,medina",39103
+"ohio","meigs","ohio,meigs",39105
+"ohio","mercer","ohio,mercer",39107
+"ohio","miami","ohio,miami",39109
+"ohio","monroe","ohio,monroe",39111
+"ohio","montgomery","ohio,montgomery",39113
+"ohio","morgan","ohio,morgan",39115
+"ohio","morrow","ohio,morrow",39117
+"ohio","muskingum","ohio,muskingum",39119
+"ohio","noble","ohio,noble",39121
+"ohio","ottawa","ohio,ottawa",39123
+"ohio","paulding","ohio,paulding",39125
+"ohio","perry","ohio,perry",39127
+"ohio","pickaway","ohio,pickaway",39129
+"ohio","pike","ohio,pike",39131
+"ohio","portage","ohio,portage",39133
+"ohio","preble","ohio,preble",39135
+"ohio","putnam","ohio,putnam",39137
+"ohio","richland","ohio,richland",39139
+"ohio","ross","ohio,ross",39141
+"ohio","sandusky","ohio,sandusky",39143
+"ohio","scioto","ohio,scioto",39145
+"ohio","seneca","ohio,seneca",39147
+"ohio","shelby","ohio,shelby",39149
+"ohio","stark","ohio,stark",39151
+"ohio","summit","ohio,summit",39153
+"ohio","trumbull","ohio,trumbull",39155
+"ohio","tuscarawas","ohio,tuscarawas",39157
+"ohio","union","ohio,union",39159
+"ohio","van wert","ohio,van wert",39161
+"ohio","vinton","ohio,vinton",39163
+"ohio","warren","ohio,warren",39165
+"ohio","washington","ohio,washington",39167
+"ohio","wayne","ohio,wayne",39169
+"ohio","williams","ohio,williams",39171
+"ohio","wood","ohio,wood",39173
+"ohio","wyandot","ohio,wyandot",39175
+"oklahoma","adair","oklahoma,adair",40001
+"oklahoma","alfalfa","oklahoma,alfalfa",40003
+"oklahoma","atoka","oklahoma,atoka",40005
+"oklahoma","beaver","oklahoma,beaver",40007
+"oklahoma","beckham","oklahoma,beckham",40009
+"oklahoma","blaine","oklahoma,blaine",40011
+"oklahoma","bryan","oklahoma,bryan",40013
+"oklahoma","caddo","oklahoma,caddo",40015
+"oklahoma","canadian","oklahoma,canadian",40017
+"oklahoma","carter","oklahoma,carter",40019
+"oklahoma","cherokee","oklahoma,cherokee",40021
+"oklahoma","choctaw","oklahoma,choctaw",40023
+"oklahoma","cimarron","oklahoma,cimarron",40025
+"oklahoma","cleveland","oklahoma,cleveland",40027
+"oklahoma","coal","oklahoma,coal",40029
+"oklahoma","comanche","oklahoma,comanche",40031
+"oklahoma","cotton","oklahoma,cotton",40033
+"oklahoma","craig","oklahoma,craig",40035
+"oklahoma","creek","oklahoma,creek",40037
+"oklahoma","custer","oklahoma,custer",40039
+"oklahoma","delaware","oklahoma,delaware",40041
+"oklahoma","dewey","oklahoma,dewey",40043
+"oklahoma","ellis","oklahoma,ellis",40045
+"oklahoma","garfield","oklahoma,garfield",40047
+"oklahoma","garvin","oklahoma,garvin",40049
+"oklahoma","grady","oklahoma,grady",40051
+"oklahoma","grant","oklahoma,grant",40053
+"oklahoma","greer","oklahoma,greer",40055
+"oklahoma","harmon","oklahoma,harmon",40057
+"oklahoma","harper","oklahoma,harper",40059
+"oklahoma","haskell","oklahoma,haskell",40061
+"oklahoma","hughes","oklahoma,hughes",40063
+"oklahoma","jackson","oklahoma,jackson",40065
+"oklahoma","jefferson","oklahoma,jefferson",40067
+"oklahoma","johnston","oklahoma,johnston",40069
+"oklahoma","kay","oklahoma,kay",40071
+"oklahoma","kingfisher","oklahoma,kingfisher",40073
+"oklahoma","kiowa","oklahoma,kiowa",40075
+"oklahoma","latimer","oklahoma,latimer",40077
+"oklahoma","le flore","oklahoma,le flore",40079
+"oklahoma","lincoln","oklahoma,lincoln",40081
+"oklahoma","logan","oklahoma,logan",40083
+"oklahoma","love","oklahoma,love",40085
+"oklahoma","major","oklahoma,major",40093
+"oklahoma","marshall","oklahoma,marshall",40095
+"oklahoma","mayes","oklahoma,mayes",40097
+"oklahoma","mcclain","oklahoma,mcclain",40087
+"oklahoma","mccurtain","oklahoma,mccurtain",40089
+"oklahoma","mcintosh","oklahoma,mcintosh",40091
+"oklahoma","murray","oklahoma,murray",40099
+"oklahoma","muskogee","oklahoma,muskogee",40101
+"oklahoma","noble","oklahoma,noble",40103
+"oklahoma","nowata","oklahoma,nowata",40105
+"oklahoma","okfuskee","oklahoma,okfuskee",40107
+"oklahoma","oklahoma","oklahoma,oklahoma",40109
+"oklahoma","okmulgee","oklahoma,okmulgee",40111
+"oklahoma","osage","oklahoma,osage",40113
+"oklahoma","ottawa","oklahoma,ottawa",40115
+"oklahoma","pawnee","oklahoma,pawnee",40117
+"oklahoma","payne","oklahoma,payne",40119
+"oklahoma","pittsburg","oklahoma,pittsburg",40121
+"oklahoma","pontotoc","oklahoma,pontotoc",40123
+"oklahoma","pottawatomie","oklahoma,pottawatomie",40125
+"oklahoma","pushmataha","oklahoma,pushmataha",40127
+"oklahoma","roger mills","oklahoma,roger mills",40129
+"oklahoma","rogers","oklahoma,rogers",40131
+"oklahoma","seminole","oklahoma,seminole",40133
+"oklahoma","sequoyah","oklahoma,sequoyah",40135
+"oklahoma","stephens","oklahoma,stephens",40137
+"oklahoma","texas","oklahoma,texas",40139
+"oklahoma","tillman","oklahoma,tillman",40141
+"oklahoma","tulsa","oklahoma,tulsa",40143
+"oklahoma","wagoner","oklahoma,wagoner",40145
+"oklahoma","washington","oklahoma,washington",40147
+"oklahoma","washita","oklahoma,washita",40149
+"oklahoma","woods","oklahoma,woods",40151
+"oklahoma","woodward","oklahoma,woodward",40153
+"oregon","baker","oregon,baker",41001
+"oregon","benton","oregon,benton",41003
+"oregon","clackamas","oregon,clackamas",41005
+"oregon","clatsop","oregon,clatsop",41007
+"oregon","columbia","oregon,columbia",41009
+"oregon","coos","oregon,coos",41011
+"oregon","crook","oregon,crook",41013
+"oregon","curry","oregon,curry",41015
+"oregon","deschutes","oregon,deschutes",41017
+"oregon","douglas","oregon,douglas",41019
+"oregon","gilliam","oregon,gilliam",41021
+"oregon","grant","oregon,grant",41023
+"oregon","harney","oregon,harney",41025
+"oregon","hood river","oregon,hood river",41027
+"oregon","jackson","oregon,jackson",41029
+"oregon","jefferson","oregon,jefferson",41031
+"oregon","josephine","oregon,josephine",41033
+"oregon","klamath","oregon,klamath",41035
+"oregon","lake","oregon,lake",41037
+"oregon","lane","oregon,lane",41039
+"oregon","lincoln","oregon,lincoln",41041
+"oregon","linn","oregon,linn",41043
+"oregon","malheur","oregon,malheur",41045
+"oregon","marion","oregon,marion",41047
+"oregon","morrow","oregon,morrow",41049
+"oregon","multnomah","oregon,multnomah",41051
+"oregon","polk","oregon,polk",41053
+"oregon","sherman","oregon,sherman",41055
+"oregon","tillamook","oregon,tillamook",41057
+"oregon","umatilla","oregon,umatilla",41059
+"oregon","union","oregon,union",41061
+"oregon","wallowa","oregon,wallowa",41063
+"oregon","wasco","oregon,wasco",41065
+"oregon","washington","oregon,washington",41067
+"oregon","wheeler","oregon,wheeler",41069
+"oregon","yamhill","oregon,yamhill",41071
+"pennsylvania","adams","pennsylvania,adams",42001
+"pennsylvania","allegheny","pennsylvania,allegheny",42003
+"pennsylvania","armstrong","pennsylvania,armstrong",42005
+"pennsylvania","beaver","pennsylvania,beaver",42007
+"pennsylvania","bedford","pennsylvania,bedford",42009
+"pennsylvania","berks","pennsylvania,berks",42011
+"pennsylvania","blair","pennsylvania,blair",42013
+"pennsylvania","bradford","pennsylvania,bradford",42015
+"pennsylvania","bucks","pennsylvania,bucks",42017
+"pennsylvania","butler","pennsylvania,butler",42019
+"pennsylvania","cambria","pennsylvania,cambria",42021
+"pennsylvania","cameron","pennsylvania,cameron",42023
+"pennsylvania","carbon","pennsylvania,carbon",42025
+"pennsylvania","centre","pennsylvania,centre",42027
+"pennsylvania","chester","pennsylvania,chester",42029
+"pennsylvania","clarion","pennsylvania,clarion",42031
+"pennsylvania","clearfield","pennsylvania,clearfield",42033
+"pennsylvania","clinton","pennsylvania,clinton",42035
+"pennsylvania","columbia","pennsylvania,columbia",42037
+"pennsylvania","crawford","pennsylvania,crawford",42039
+"pennsylvania","cumberland","pennsylvania,cumberland",42041
+"pennsylvania","dauphin","pennsylvania,dauphin",42043
+"pennsylvania","delaware","pennsylvania,delaware",42045
+"pennsylvania","elk","pennsylvania,elk",42047
+"pennsylvania","erie","pennsylvania,erie",42049
+"pennsylvania","fayette","pennsylvania,fayette",42051
+"pennsylvania","forest","pennsylvania,forest",42053
+"pennsylvania","franklin","pennsylvania,franklin",42055
+"pennsylvania","fulton","pennsylvania,fulton",42057
+"pennsylvania","greene","pennsylvania,greene",42059
+"pennsylvania","huntingdon","pennsylvania,huntingdon",42061
+"pennsylvania","indiana","pennsylvania,indiana",42063
+"pennsylvania","jefferson","pennsylvania,jefferson",42065
+"pennsylvania","juniata","pennsylvania,juniata",42067
+"pennsylvania","lackawanna","pennsylvania,lackawanna",42069
+"pennsylvania","lancaster","pennsylvania,lancaster",42071
+"pennsylvania","lawrence","pennsylvania,lawrence",42073
+"pennsylvania","lebanon","pennsylvania,lebanon",42075
+"pennsylvania","lehigh","pennsylvania,lehigh",42077
+"pennsylvania","luzerne","pennsylvania,luzerne",42079
+"pennsylvania","lycoming","pennsylvania,lycoming",42081
+"pennsylvania","mckean","pennsylvania,mckean",42083
+"pennsylvania","mercer","pennsylvania,mercer",42085
+"pennsylvania","mifflin","pennsylvania,mifflin",42087
+"pennsylvania","monroe","pennsylvania,monroe",42089
+"pennsylvania","montgomery","pennsylvania,montgomery",42091
+"pennsylvania","montour","pennsylvania,montour",42093
+"pennsylvania","northampton","pennsylvania,northampton",42095
+"pennsylvania","northumberland","pennsylvania,northumberland",42097
+"pennsylvania","perry","pennsylvania,perry",42099
+"pennsylvania","philadelphia","pennsylvania,philadelphia",42101
+"pennsylvania","pike","pennsylvania,pike",42103
+"pennsylvania","potter","pennsylvania,potter",42105
+"pennsylvania","schuylkill","pennsylvania,schuylkill",42107
+"pennsylvania","snyder","pennsylvania,snyder",42109
+"pennsylvania","somerset","pennsylvania,somerset",42111
+"pennsylvania","sullivan","pennsylvania,sullivan",42113
+"pennsylvania","susquehanna","pennsylvania,susquehanna",42115
+"pennsylvania","tioga","pennsylvania,tioga",42117
+"pennsylvania","union","pennsylvania,union",42119
+"pennsylvania","venango","pennsylvania,venango",42121
+"pennsylvania","warren","pennsylvania,warren",42123
+"pennsylvania","washington","pennsylvania,washington",42125
+"pennsylvania","wayne","pennsylvania,wayne",42127
+"pennsylvania","westmoreland","pennsylvania,westmoreland",42129
+"pennsylvania","wyoming","pennsylvania,wyoming",42131
+"pennsylvania","york","pennsylvania,york",42133
+"rhode island","bristol","rhode island,bristol",44001
+"rhode island","kent","rhode island,kent",44003
+"rhode island","newport","rhode island,newport",44005
+"rhode island","providence","rhode island,providence",44007
+"rhode island","washington","rhode island,washington",44009
+"south carolina","abbeville","south carolina,abbeville",45001
+"south carolina","aiken","south carolina,aiken",45003
+"south carolina","allendale","south carolina,allendale",45005
+"south carolina","anderson","south carolina,anderson",45007
+"south carolina","bamberg","south carolina,bamberg",45009
+"south carolina","barnwell","south carolina,barnwell",45011
+"south carolina","beaufort","south carolina,beaufort",45013
+"south carolina","berkeley","south carolina,berkeley",45015
+"south carolina","calhoun","south carolina,calhoun",45017
+"south carolina","charleston","south carolina,charleston",45019
+"south carolina","cherokee","south carolina,cherokee",45021
+"south carolina","chester","south carolina,chester",45023
+"south carolina","chesterfield","south carolina,chesterfield",45025
+"south carolina","clarendon","south carolina,clarendon",45027
+"south carolina","colleton","south carolina,colleton",45029
+"south carolina","darlington","south carolina,darlington",45031
+"south carolina","dillon","south carolina,dillon",45033
+"south carolina","dorchester","south carolina,dorchester",45035
+"south carolina","edgefield","south carolina,edgefield",45037
+"south carolina","fairfield","south carolina,fairfield",45039
+"south carolina","florence","south carolina,florence",45041
+"south carolina","georgetown","south carolina,georgetown",45043
+"south carolina","greenville","south carolina,greenville",45045
+"south carolina","greenwood","south carolina,greenwood",45047
+"south carolina","hampton","south carolina,hampton",45049
+"south carolina","horry","south carolina,horry",45051
+"south carolina","jasper","south carolina,jasper",45053
+"south carolina","kershaw","south carolina,kershaw",45055
+"south carolina","lancaster","south carolina,lancaster",45057
+"south carolina","laurens","south carolina,laurens",45059
+"south carolina","lee","south carolina,lee",45061
+"south carolina","lexington","south carolina,lexington",45063
+"south carolina","marion","south carolina,marion",45067
+"south carolina","marlboro","south carolina,marlboro",45069
+"south carolina","mccormick","south carolina,mccormick",45065
+"south carolina","newberry","south carolina,newberry",45071
+"south carolina","oconee","south carolina,oconee",45073
+"south carolina","orangeburg","south carolina,orangeburg",45075
+"south carolina","pickens","south carolina,pickens",45077
+"south carolina","richland","south carolina,richland",45079
+"south carolina","saluda","south carolina,saluda",45081
+"south carolina","spartanburg","south carolina,spartanburg",45083
+"south carolina","sumter","south carolina,sumter",45085
+"south carolina","union","south carolina,union",45087
+"south carolina","williamsburg","south carolina,williamsburg",45089
+"south carolina","york","south carolina,york",45091
+"south dakota","aurora","south dakota,aurora",46003
+"south dakota","beadle","south dakota,beadle",46005
+"south dakota","bennett","south dakota,bennett",46007
+"south dakota","bon homme","south dakota,bon homme",46009
+"south dakota","brookings","south dakota,brookings",46011
+"south dakota","brown","south dakota,brown",46013
+"south dakota","brule","south dakota,brule",46015
+"south dakota","buffalo","south dakota,buffalo",46017
+"south dakota","butte","south dakota,butte",46019
+"south dakota","campbell","south dakota,campbell",46021
+"south dakota","charles mix","south dakota,charles mix",46023
+"south dakota","clark","south dakota,clark",46025
+"south dakota","clay","south dakota,clay",46027
+"south dakota","codington","south dakota,codington",46029
+"south dakota","corson","south dakota,corson",46031
+"south dakota","custer","south dakota,custer",46033
+"south dakota","davison","south dakota,davison",46035
+"south dakota","day","south dakota,day",46037
+"south dakota","deuel","south dakota,deuel",46039
+"south dakota","dewey","south dakota,dewey",46041
+"south dakota","douglas","south dakota,douglas",46043
+"south dakota","edmunds","south dakota,edmunds",46045
+"south dakota","fall river","south dakota,fall river",46047
+"south dakota","faulk","south dakota,faulk",46049
+"south dakota","grant","south dakota,grant",46051
+"south dakota","gregory","south dakota,gregory",46053
+"south dakota","haakon","south dakota,haakon",46055
+"south dakota","hamlin","south dakota,hamlin",46057
+"south dakota","hand","south dakota,hand",46059
+"south dakota","hanson","south dakota,hanson",46061
+"south dakota","harding","south dakota,harding",46063
+"south dakota","hughes","south dakota,hughes",46065
+"south dakota","hutchinson","south dakota,hutchinson",46067
+"south dakota","hyde","south dakota,hyde",46069
+"south dakota","jackson","south dakota,jackson",46071
+"south dakota","jerauld","south dakota,jerauld",46073
+"south dakota","jones","south dakota,jones",46075
+"south dakota","kingsbury","south dakota,kingsbury",46077
+"south dakota","lake","south dakota,lake",46079
+"south dakota","lawrence","south dakota,lawrence",46081
+"south dakota","lincoln","south dakota,lincoln",46083
+"south dakota","lyman","south dakota,lyman",46085
+"south dakota","marshall","south dakota,marshall",46091
+"south dakota","mccook","south dakota,mccook",46087
+"south dakota","mcpherson","south dakota,mcpherson",46089
+"south dakota","meade","south dakota,meade",46093
+"south dakota","mellette","south dakota,mellette",46095
+"south dakota","miner","south dakota,miner",46097
+"south dakota","minnehaha","south dakota,minnehaha",46099
+"south dakota","moody","south dakota,moody",46101
+"south dakota","pennington","south dakota,pennington",46103
+"south dakota","perkins","south dakota,perkins",46105
+"south dakota","potter","south dakota,potter",46107
+"south dakota","roberts","south dakota,roberts",46109
+"south dakota","sanborn","south dakota,sanborn",46111
+"south dakota","shannon","south dakota,shannon",46113
+"south dakota","spink","south dakota,spink",46115
+"south dakota","stanley","south dakota,stanley",46117
+"south dakota","sully","south dakota,sully",46119
+"south dakota","todd","south dakota,todd",46121
+"south dakota","tripp","south dakota,tripp",46123
+"south dakota","turner","south dakota,turner",46125
+"south dakota","union","south dakota,union",46127
+"south dakota","walworth","south dakota,walworth",46129
+"south dakota","yankton","south dakota,yankton",46135
+"south dakota","ziebach","south dakota,ziebach",46137
+"tennessee","anderson","tennessee,anderson",47001
+"tennessee","bedford","tennessee,bedford",47003
+"tennessee","benton","tennessee,benton",47005
+"tennessee","bledsoe","tennessee,bledsoe",47007
+"tennessee","blount","tennessee,blount",47009
+"tennessee","bradley","tennessee,bradley",47011
+"tennessee","campbell","tennessee,campbell",47013
+"tennessee","cannon","tennessee,cannon",47015
+"tennessee","carroll","tennessee,carroll",47017
+"tennessee","carter","tennessee,carter",47019
+"tennessee","cheatham","tennessee,cheatham",47021
+"tennessee","chester","tennessee,chester",47023
+"tennessee","claiborne","tennessee,claiborne",47025
+"tennessee","clay","tennessee,clay",47027
+"tennessee","cocke","tennessee,cocke",47029
+"tennessee","coffee","tennessee,coffee",47031
+"tennessee","crockett","tennessee,crockett",47033
+"tennessee","cumberland","tennessee,cumberland",47035
+"tennessee","davidson","tennessee,davidson",47037
+"tennessee","de kalb","tennessee,de kalb",47041
+"tennessee","decatur","tennessee,decatur",47039
+"tennessee","dickson","tennessee,dickson",47043
+"tennessee","dyer","tennessee,dyer",47045
+"tennessee","fayette","tennessee,fayette",47047
+"tennessee","fentress","tennessee,fentress",47049
+"tennessee","franklin","tennessee,franklin",47051
+"tennessee","gibson","tennessee,gibson",47053
+"tennessee","giles","tennessee,giles",47055
+"tennessee","grainger","tennessee,grainger",47057
+"tennessee","greene","tennessee,greene",47059
+"tennessee","grundy","tennessee,grundy",47061
+"tennessee","hamblen","tennessee,hamblen",47063
+"tennessee","hamilton","tennessee,hamilton",47065
+"tennessee","hancock","tennessee,hancock",47067
+"tennessee","hardeman","tennessee,hardeman",47069
+"tennessee","hardin","tennessee,hardin",47071
+"tennessee","hawkins","tennessee,hawkins",47073
+"tennessee","haywood","tennessee,haywood",47075
+"tennessee","henderson","tennessee,henderson",47077
+"tennessee","henry","tennessee,henry",47079
+"tennessee","hickman","tennessee,hickman",47081
+"tennessee","houston","tennessee,houston",47083
+"tennessee","humphreys","tennessee,humphreys",47085
+"tennessee","jackson","tennessee,jackson",47087
+"tennessee","jefferson","tennessee,jefferson",47089
+"tennessee","johnson","tennessee,johnson",47091
+"tennessee","knox","tennessee,knox",47093
+"tennessee","lake","tennessee,lake",47095
+"tennessee","lauderdale","tennessee,lauderdale",47097
+"tennessee","lawrence","tennessee,lawrence",47099
+"tennessee","lewis","tennessee,lewis",47101
+"tennessee","lincoln","tennessee,lincoln",47103
+"tennessee","loudon","tennessee,loudon",47105
+"tennessee","macon","tennessee,macon",47111
+"tennessee","madison","tennessee,madison",47113
+"tennessee","marion","tennessee,marion",47115
+"tennessee","marshall","tennessee,marshall",47117
+"tennessee","maury","tennessee,maury",47119
+"tennessee","mcminn","tennessee,mcminn",47107
+"tennessee","mcnairy","tennessee,mcnairy",47109
+"tennessee","meigs","tennessee,meigs",47121
+"tennessee","monroe","tennessee,monroe",47123
+"tennessee","montgomery","tennessee,montgomery",47125
+"tennessee","moore","tennessee,moore",47127
+"tennessee","morgan","tennessee,morgan",47129
+"tennessee","obion","tennessee,obion",47131
+"tennessee","overton","tennessee,overton",47133
+"tennessee","perry","tennessee,perry",47135
+"tennessee","pickett","tennessee,pickett",47137
+"tennessee","polk","tennessee,polk",47139
+"tennessee","putnam","tennessee,putnam",47141
+"tennessee","rhea","tennessee,rhea",47143
+"tennessee","roane","tennessee,roane",47145
+"tennessee","robertson","tennessee,robertson",47147
+"tennessee","rutherford","tennessee,rutherford",47149
+"tennessee","scott","tennessee,scott",47151
+"tennessee","sequatchie","tennessee,sequatchie",47153
+"tennessee","sevier","tennessee,sevier",47155
+"tennessee","shelby","tennessee,shelby",47157
+"tennessee","smith","tennessee,smith",47159
+"tennessee","stewart","tennessee,stewart",47161
+"tennessee","sullivan","tennessee,sullivan",47163
+"tennessee","sumner","tennessee,sumner",47165
+"tennessee","tipton","tennessee,tipton",47167
+"tennessee","trousdale","tennessee,trousdale",47169
+"tennessee","unicoi","tennessee,unicoi",47171
+"tennessee","union","tennessee,union",47173
+"tennessee","van buren","tennessee,van buren",47175
+"tennessee","warren","tennessee,warren",47177
+"tennessee","washington","tennessee,washington",47179
+"tennessee","wayne","tennessee,wayne",47181
+"tennessee","weakley","tennessee,weakley",47183
+"tennessee","white","tennessee,white",47185
+"tennessee","williamson","tennessee,williamson",47187
+"tennessee","wilson","tennessee,wilson",47189
+"texas","anderson","texas,anderson",48001
+"texas","andrews","texas,andrews",48003
+"texas","angelina","texas,angelina",48005
+"texas","aransas","texas,aransas",48007
+"texas","archer","texas,archer",48009
+"texas","armstrong","texas,armstrong",48011
+"texas","atascosa","texas,atascosa",48013
+"texas","austin","texas,austin",48015
+"texas","bailey","texas,bailey",48017
+"texas","bandera","texas,bandera",48019
+"texas","bastrop","texas,bastrop",48021
+"texas","baylor","texas,baylor",48023
+"texas","bee","texas,bee",48025
+"texas","bell","texas,bell",48027
+"texas","bexar","texas,bexar",48029
+"texas","blanco","texas,blanco",48031
+"texas","borden","texas,borden",48033
+"texas","bosque","texas,bosque",48035
+"texas","bowie","texas,bowie",48037
+"texas","brazoria","texas,brazoria",48039
+"texas","brazos","texas,brazos",48041
+"texas","brewster","texas,brewster",48043
+"texas","briscoe","texas,briscoe",48045
+"texas","brooks","texas,brooks",48047
+"texas","brown","texas,brown",48049
+"texas","burleson","texas,burleson",48051
+"texas","burnet","texas,burnet",48053
+"texas","caldwell","texas,caldwell",48055
+"texas","calhoun","texas,calhoun",48057
+"texas","callahan","texas,callahan",48059
+"texas","cameron","texas,cameron",48061
+"texas","camp","texas,camp",48063
+"texas","carson","texas,carson",48065
+"texas","cass","texas,cass",48067
+"texas","castro","texas,castro",48069
+"texas","chambers","texas,chambers",48071
+"texas","cherokee","texas,cherokee",48073
+"texas","childress","texas,childress",48075
+"texas","clay","texas,clay",48077
+"texas","cochran","texas,cochran",48079
+"texas","coke","texas,coke",48081
+"texas","coleman","texas,coleman",48083
+"texas","collin","texas,collin",48085
+"texas","collingsworth","texas,collingsworth",48087
+"texas","colorado","texas,colorado",48089
+"texas","comal","texas,comal",48091
+"texas","comanche","texas,comanche",48093
+"texas","concho","texas,concho",48095
+"texas","cooke","texas,cooke",48097
+"texas","coryell","texas,coryell",48099
+"texas","cottle","texas,cottle",48101
+"texas","crane","texas,crane",48103
+"texas","crockett","texas,crockett",48105
+"texas","crosby","texas,crosby",48107
+"texas","culberson","texas,culberson",48109
+"texas","dallam","texas,dallam",48111
+"texas","dallas","texas,dallas",48113
+"texas","dawson","texas,dawson",48115
+"texas","de witt","texas,de witt",48123
+"texas","deaf smith","texas,deaf smith",48117
+"texas","delta","texas,delta",48119
+"texas","denton","texas,denton",48121
+"texas","dickens","texas,dickens",48125
+"texas","dimmit","texas,dimmit",48127
+"texas","donley","texas,donley",48129
+"texas","duval","texas,duval",48131
+"texas","eastland","texas,eastland",48133
+"texas","ector","texas,ector",48135
+"texas","edwards","texas,edwards",48137
+"texas","el paso","texas,el paso",48141
+"texas","ellis","texas,ellis",48139
+"texas","erath","texas,erath",48143
+"texas","falls","texas,falls",48145
+"texas","fannin","texas,fannin",48147
+"texas","fayette","texas,fayette",48149
+"texas","fisher","texas,fisher",48151
+"texas","floyd","texas,floyd",48153
+"texas","foard","texas,foard",48155
+"texas","fort bend","texas,fort bend",48157
+"texas","franklin","texas,franklin",48159
+"texas","freestone","texas,freestone",48161
+"texas","frio","texas,frio",48163
+"texas","gaines","texas,gaines",48165
+"texas","galveston","texas,galveston",48167
+"texas","garza","texas,garza",48169
+"texas","gillespie","texas,gillespie",48171
+"texas","glasscock","texas,glasscock",48173
+"texas","goliad","texas,goliad",48175
+"texas","gonzales","texas,gonzales",48177
+"texas","gray","texas,gray",48179
+"texas","grayson","texas,grayson",48181
+"texas","gregg","texas,gregg",48183
+"texas","grimes","texas,grimes",48185
+"texas","guadalupe","texas,guadalupe",48187
+"texas","hale","texas,hale",48189
+"texas","hall","texas,hall",48191
+"texas","hamilton","texas,hamilton",48193
+"texas","hansford","texas,hansford",48195
+"texas","hardeman","texas,hardeman",48197
+"texas","hardin","texas,hardin",48199
+"texas","harris","texas,harris",48201
+"texas","harrison","texas,harrison",48203
+"texas","hartley","texas,hartley",48205
+"texas","haskell","texas,haskell",48207
+"texas","hays","texas,hays",48209
+"texas","hemphill","texas,hemphill",48211
+"texas","henderson","texas,henderson",48213
+"texas","hidalgo","texas,hidalgo",48215
+"texas","hill","texas,hill",48217
+"texas","hockley","texas,hockley",48219
+"texas","hood","texas,hood",48221
+"texas","hopkins","texas,hopkins",48223
+"texas","houston","texas,houston",48225
+"texas","howard","texas,howard",48227
+"texas","hudspeth","texas,hudspeth",48229
+"texas","hunt","texas,hunt",48231
+"texas","hutchinson","texas,hutchinson",48233
+"texas","irion","texas,irion",48235
+"texas","jack","texas,jack",48237
+"texas","jackson","texas,jackson",48239
+"texas","jasper","texas,jasper",48241
+"texas","jeff davis","texas,jeff davis",48243
+"texas","jefferson","texas,jefferson",48245
+"texas","jim hogg","texas,jim hogg",48247
+"texas","jim wells","texas,jim wells",48249
+"texas","johnson","texas,johnson",48251
+"texas","jones","texas,jones",48253
+"texas","karnes","texas,karnes",48255
+"texas","kaufman","texas,kaufman",48257
+"texas","kendall","texas,kendall",48259
+"texas","kenedy","texas,kenedy",48261
+"texas","kent","texas,kent",48263
+"texas","kerr","texas,kerr",48265
+"texas","kimble","texas,kimble",48267
+"texas","king","texas,king",48269
+"texas","kinney","texas,kinney",48271
+"texas","kleberg","texas,kleberg",48273
+"texas","knox","texas,knox",48275
+"texas","la salle","texas,la salle",48283
+"texas","lamar","texas,lamar",48277
+"texas","lamb","texas,lamb",48279
+"texas","lampasas","texas,lampasas",48281
+"texas","lavaca","texas,lavaca",48285
+"texas","lee","texas,lee",48287
+"texas","leon","texas,leon",48289
+"texas","liberty","texas,liberty",48291
+"texas","limestone","texas,limestone",48293
+"texas","lipscomb","texas,lipscomb",48295
+"texas","live oak","texas,live oak",48297
+"texas","llano","texas,llano",48299
+"texas","loving","texas,loving",48301
+"texas","lubbock","texas,lubbock",48303
+"texas","lynn","texas,lynn",48305
+"texas","madison","texas,madison",48313
+"texas","marion","texas,marion",48315
+"texas","martin","texas,martin",48317
+"texas","mason","texas,mason",48319
+"texas","matagorda","texas,matagorda",48321
+"texas","maverick","texas,maverick",48323
+"texas","mcculloch","texas,mcculloch",48307
+"texas","mclennan","texas,mclennan",48309
+"texas","mcmullen","texas,mcmullen",48311
+"texas","medina","texas,medina",48325
+"texas","menard","texas,menard",48327
+"texas","midland","texas,midland",48329
+"texas","milam","texas,milam",48331
+"texas","mills","texas,mills",48333
+"texas","mitchell","texas,mitchell",48335
+"texas","montague","texas,montague",48337
+"texas","montgomery","texas,montgomery",48339
+"texas","moore","texas,moore",48341
+"texas","morris","texas,morris",48343
+"texas","motley","texas,motley",48345
+"texas","nacogdoches","texas,nacogdoches",48347
+"texas","navarro","texas,navarro",48349
+"texas","newton","texas,newton",48351
+"texas","nolan","texas,nolan",48353
+"texas","nueces","texas,nueces",48355
+"texas","ochiltree","texas,ochiltree",48357
+"texas","oldham","texas,oldham",48359
+"texas","orange","texas,orange",48361
+"texas","palo pinto","texas,palo pinto",48363
+"texas","panola","texas,panola",48365
+"texas","parker","texas,parker",48367
+"texas","parmer","texas,parmer",48369
+"texas","pecos","texas,pecos",48371
+"texas","polk","texas,polk",48373
+"texas","potter","texas,potter",48375
+"texas","presidio","texas,presidio",48377
+"texas","rains","texas,rains",48379
+"texas","randall","texas,randall",48381
+"texas","reagan","texas,reagan",48383
+"texas","real","texas,real",48385
+"texas","red river","texas,red river",48387
+"texas","reeves","texas,reeves",48389
+"texas","refugio","texas,refugio",48391
+"texas","roberts","texas,roberts",48393
+"texas","robertson","texas,robertson",48395
+"texas","rockwall","texas,rockwall",48397
+"texas","runnels","texas,runnels",48399
+"texas","rusk","texas,rusk",48401
+"texas","sabine","texas,sabine",48403
+"texas","san augustine","texas,san augustine",48405
+"texas","san jacinto","texas,san jacinto",48407
+"texas","san patricio","texas,san patricio",48409
+"texas","san saba","texas,san saba",48411
+"texas","schleicher","texas,schleicher",48413
+"texas","scurry","texas,scurry",48415
+"texas","shackelford","texas,shackelford",48417
+"texas","shelby","texas,shelby",48419
+"texas","sherman","texas,sherman",48421
+"texas","smith","texas,smith",48423
+"texas","somervell","texas,somervell",48425
+"texas","starr","texas,starr",48427
+"texas","stephens","texas,stephens",48429
+"texas","sterling","texas,sterling",48431
+"texas","stonewall","texas,stonewall",48433
+"texas","sutton","texas,sutton",48435
+"texas","swisher","texas,swisher",48437
+"texas","tarrant","texas,tarrant",48439
+"texas","taylor","texas,taylor",48441
+"texas","terrell","texas,terrell",48443
+"texas","terry","texas,terry",48445
+"texas","throckmorton","texas,throckmorton",48447
+"texas","titus","texas,titus",48449
+"texas","tom green","texas,tom green",48451
+"texas","travis","texas,travis",48453
+"texas","trinity","texas,trinity",48455
+"texas","tyler","texas,tyler",48457
+"texas","upshur","texas,upshur",48459
+"texas","upton","texas,upton",48461
+"texas","uvalde","texas,uvalde",48463
+"texas","val verde","texas,val verde",48465
+"texas","van zandt","texas,van zandt",48467
+"texas","victoria","texas,victoria",48469
+"texas","walker","texas,walker",48471
+"texas","waller","texas,waller",48473
+"texas","ward","texas,ward",48475
+"texas","washington","texas,washington",48477
+"texas","webb","texas,webb",48479
+"texas","wharton","texas,wharton",48481
+"texas","wheeler","texas,wheeler",48483
+"texas","wichita","texas,wichita",48485
+"texas","wilbarger","texas,wilbarger",48487
+"texas","willacy","texas,willacy",48489
+"texas","williamson","texas,williamson",48491
+"texas","wilson","texas,wilson",48493
+"texas","winkler","texas,winkler",48495
+"texas","wise","texas,wise",48497
+"texas","wood","texas,wood",48499
+"texas","yoakum","texas,yoakum",48501
+"texas","young","texas,young",48503
+"texas","zapata","texas,zapata",48505
+"texas","zavala","texas,zavala",48507
+"utah","beaver","utah,beaver",49001
+"utah","box elder","utah,box elder",49003
+"utah","cache","utah,cache",49005
+"utah","carbon","utah,carbon",49007
+"utah","daggett","utah,daggett",49009
+"utah","davis","utah,davis",49011
+"utah","duchesne","utah,duchesne",49013
+"utah","emery","utah,emery",49015
+"utah","garfield","utah,garfield",49017
+"utah","grand","utah,grand",49019
+"utah","iron","utah,iron",49021
+"utah","juab","utah,juab",49023
+"utah","kane","utah,kane",49025
+"utah","millard","utah,millard",49027
+"utah","morgan","utah,morgan",49029
+"utah","piute","utah,piute",49031
+"utah","rich","utah,rich",49033
+"utah","salt lake","utah,salt lake",49035
+"utah","san juan","utah,san juan",49037
+"utah","sanpete","utah,sanpete",49039
+"utah","sevier","utah,sevier",49041
+"utah","summit","utah,summit",49043
+"utah","tooele","utah,tooele",49045
+"utah","uintah","utah,uintah",49047
+"utah","utah","utah,utah",49049
+"utah","wasatch","utah,wasatch",49051
+"utah","washington","utah,washington",49053
+"utah","wayne","utah,wayne",49055
+"utah","weber","utah,weber",49057
+"vermont","addison","vermont,addison",50001
+"vermont","bennington","vermont,bennington",50003
+"vermont","caledonia","vermont,caledonia",50005
+"vermont","chittenden","vermont,chittenden",50007
+"vermont","essex","vermont,essex",50009
+"vermont","franklin","vermont,franklin",50011
+"vermont","grand isle","vermont,grand isle",50013
+"vermont","lamoille","vermont,lamoille",50015
+"vermont","orange","vermont,orange",50017
+"vermont","orleans","vermont,orleans",50019
+"vermont","rutland","vermont,rutland",50021
+"vermont","washington","vermont,washington",50023
+"vermont","windham","vermont,windham",50025
+"vermont","windsor","vermont,windsor",50027
+"virginia","accomack","virginia,accomack",51001
+"virginia","albemarle","virginia,albemarle",51003
+"virginia","alleghany","virginia,alleghany",51005
+"virginia","amelia","virginia,amelia",51007
+"virginia","amherst","virginia,amherst",51009
+"virginia","appomattox","virginia,appomattox",51011
+"virginia","arlington","virginia,arlington",51013
+"virginia","augusta","virginia,augusta",51015
+"virginia","bath","virginia,bath",51017
+"virginia","bedford","virginia,bedford",51019
+"virginia","bland","virginia,bland",51021
+"virginia","botetourt","virginia,botetourt",51023
+"virginia","brunswick","virginia,brunswick",51025
+"virginia","buchanan","virginia,buchanan",51027
+"virginia","buckingham","virginia,buckingham",51029
+"virginia","campbell","virginia,campbell",51031
+"virginia","caroline","virginia,caroline",51033
+"virginia","carroll","virginia,carroll",51035
+"virginia","charles city","virginia,charles city",51036
+"virginia","charlotte","virginia,charlotte",51037
+"virginia","chesterfield","virginia,chesterfield",51041
+"virginia","clarke","virginia,clarke",51043
+"virginia","craig","virginia,craig",51045
+"virginia","culpeper","virginia,culpeper",51047
+"virginia","cumberland","virginia,cumberland",51049
+"virginia","dickenson","virginia,dickenson",51051
+"virginia","dinwiddie","virginia,dinwiddie",51053
+"virginia","essex","virginia,essex",51057
+"virginia","fairfax","virginia,fairfax",51059
+"virginia","fauquier","virginia,fauquier",51061
+"virginia","floyd","virginia,floyd",51063
+"virginia","fluvanna","virginia,fluvanna",51065
+"virginia","franklin","virginia,franklin",51067
+"virginia","frederick","virginia,frederick",51069
+"virginia","giles","virginia,giles",51071
+"virginia","gloucester","virginia,gloucester",51073
+"virginia","goochland","virginia,goochland",51075
+"virginia","grayson","virginia,grayson",51077
+"virginia","greene","virginia,greene",51079
+"virginia","greensville","virginia,greensville",51081
+"virginia","halifax","virginia,halifax",51083
+"virginia","hampton","virginia,hampton",51650
+"virginia","hanover","virginia,hanover",51085
+"virginia","henrico","virginia,henrico",51087
+"virginia","henry","virginia,henry",51089
+"virginia","highland","virginia,highland",51091
+"virginia","isle of wight","virginia,isle of wight",51093
+"virginia","james city","virginia,james city",51095
+"virginia","king and queen","virginia,king and queen",51097
+"virginia","king george","virginia,king george",51099
+"virginia","king william","virginia,king william",51101
+"virginia","lancaster","virginia,lancaster",51103
+"virginia","lee","virginia,lee",51105
+"virginia","loudoun","virginia,loudoun",51107
+"virginia","louisa","virginia,louisa",51109
+"virginia","lunenburg","virginia,lunenburg",51111
+"virginia","madison","virginia,madison",51113
+"virginia","mathews","virginia,mathews",51115
+"virginia","mecklenburg","virginia,mecklenburg",51117
+"virginia","middlesex","virginia,middlesex",51119
+"virginia","montgomery","virginia,montgomery",51121
+"virginia","nelson","virginia,nelson",51125
+"virginia","new kent","virginia,new kent",51127
+"virginia","newport news","virginia,newport news",51700
+"virginia","norfolk","virginia,norfolk",51710
+"virginia","northampton","virginia,northampton",51131
+"virginia","northumberland","virginia,northumberland",51133
+"virginia","nottoway","virginia,nottoway",51135
+"virginia","orange","virginia,orange",51137
+"virginia","page","virginia,page",51139
+"virginia","patrick","virginia,patrick",51141
+"virginia","pittsylvania","virginia,pittsylvania",51143
+"virginia","powhatan","virginia,powhatan",51145
+"virginia","prince edward","virginia,prince edward",51147
+"virginia","prince george","virginia,prince george",51149
+"virginia","prince william","virginia,prince william",51153
+"virginia","pulaski","virginia,pulaski",51155
+"virginia","rappahannock","virginia,rappahannock",51157
+"virginia","richmond","virginia,richmond",51159
+"virginia","roanoke","virginia,roanoke",51161
+"virginia","rockbridge","virginia,rockbridge",51163
+"virginia","rockingham","virginia,rockingham",51165
+"virginia","russell","virginia,russell",51167
+"virginia","scott","virginia,scott",51169
+"virginia","shenandoah","virginia,shenandoah",51171
+"virginia","smyth","virginia,smyth",51173
+"virginia","southampton","virginia,southampton",51175
+"virginia","spotsylvania","virginia,spotsylvania",51177
+"virginia","stafford","virginia,stafford",51179
+"virginia","suffolk","virginia,suffolk",51800
+"virginia","surry","virginia,surry",51181
+"virginia","sussex","virginia,sussex",51183
+"virginia","tazewell","virginia,tazewell",51185
+"virginia","virginia beach","virginia,virginia beach",51810
+"virginia","warren","virginia,warren",51187
+"virginia","washington","virginia,washington",51191
+"virginia","westmoreland","virginia,westmoreland",51193
+"virginia","wise","virginia,wise",51195
+"virginia","wythe","virginia,wythe",51197
+"virginia","york","virginia,york",51199
+"washington","adams","washington,adams",53001
+"washington","asotin","washington,asotin",53003
+"washington","benton","washington,benton",53005
+"washington","chelan","washington,chelan",53007
+"washington","clallam","washington,clallam",53009
+"washington","clark","washington,clark",53011
+"washington","columbia","washington,columbia",53013
+"washington","cowlitz","washington,cowlitz",53015
+"washington","douglas","washington,douglas",53017
+"washington","ferry","washington,ferry",53019
+"washington","franklin","washington,franklin",53021
+"washington","garfield","washington,garfield",53023
+"washington","grant","washington,grant",53025
+"washington","grays harbor","washington,grays harbor",53027
+"washington","island","washington,island",53029
+"washington","jefferson","washington,jefferson",53031
+"washington","king","washington,king",53033
+"washington","kitsap","washington,kitsap",53035
+"washington","kittitas","washington,kittitas",53037
+"washington","klickitat","washington,klickitat",53039
+"washington","lewis","washington,lewis",53041
+"washington","lincoln","washington,lincoln",53043
+"washington","mason","washington,mason",53045
+"washington","okanogan","washington,okanogan",53047
+"washington","pacific","washington,pacific",53049
+"washington","pend oreille","washington,pend oreille",53051
+"washington","pierce","washington,pierce",53053
+"washington","san juan","washington,san juan",53055
+"washington","skagit","washington,skagit",53057
+"washington","skamania","washington,skamania",53059
+"washington","snohomish","washington,snohomish",53061
+"washington","spokane","washington,spokane",53063
+"washington","stevens","washington,stevens",53065
+"washington","thurston","washington,thurston",53067
+"washington","wahkiakum","washington,wahkiakum",53069
+"washington","walla walla","washington,walla walla",53071
+"washington","whatcom","washington,whatcom",53073
+"washington","whitman","washington,whitman",53075
+"washington","yakima","washington,yakima",53077
+"west virginia","barbour","west virginia,barbour",54001
+"west virginia","berkeley","west virginia,berkeley",54003
+"west virginia","boone","west virginia,boone",54005
+"west virginia","braxton","west virginia,braxton",54007
+"west virginia","brooke","west virginia,brooke",54009
+"west virginia","cabell","west virginia,cabell",54011
+"west virginia","calhoun","west virginia,calhoun",54013
+"west virginia","clay","west virginia,clay",54015
+"west virginia","doddridge","west virginia,doddridge",54017
+"west virginia","fayette","west virginia,fayette",54019
+"west virginia","gilmer","west virginia,gilmer",54021
+"west virginia","grant","west virginia,grant",54023
+"west virginia","greenbrier","west virginia,greenbrier",54025
+"west virginia","hampshire","west virginia,hampshire",54027
+"west virginia","hancock","west virginia,hancock",54029
+"west virginia","hardy","west virginia,hardy",54031
+"west virginia","harrison","west virginia,harrison",54033
+"west virginia","jackson","west virginia,jackson",54035
+"west virginia","jefferson","west virginia,jefferson",54037
+"west virginia","kanawha","west virginia,kanawha",54039
+"west virginia","lewis","west virginia,lewis",54041
+"west virginia","lincoln","west virginia,lincoln",54043
+"west virginia","logan","west virginia,logan",54045
+"west virginia","marion","west virginia,marion",54049
+"west virginia","marshall","west virginia,marshall",54051
+"west virginia","mason","west virginia,mason",54053
+"west virginia","mcdowell","west virginia,mcdowell",54047
+"west virginia","mercer","west virginia,mercer",54055
+"west virginia","mineral","west virginia,mineral",54057
+"west virginia","mingo","west virginia,mingo",54059
+"west virginia","monongalia","west virginia,monongalia",54061
+"west virginia","monroe","west virginia,monroe",54063
+"west virginia","morgan","west virginia,morgan",54065
+"west virginia","nicholas","west virginia,nicholas",54067
+"west virginia","ohio","west virginia,ohio",54069
+"west virginia","pendleton","west virginia,pendleton",54071
+"west virginia","pleasants","west virginia,pleasants",54073
+"west virginia","pocahontas","west virginia,pocahontas",54075
+"west virginia","preston","west virginia,preston",54077
+"west virginia","putnam","west virginia,putnam",54079
+"west virginia","raleigh","west virginia,raleigh",54081
+"west virginia","randolph","west virginia,randolph",54083
+"west virginia","ritchie","west virginia,ritchie",54085
+"west virginia","roane","west virginia,roane",54087
+"west virginia","summers","west virginia,summers",54089
+"west virginia","taylor","west virginia,taylor",54091
+"west virginia","tucker","west virginia,tucker",54093
+"west virginia","tyler","west virginia,tyler",54095
+"west virginia","upshur","west virginia,upshur",54097
+"west virginia","wayne","west virginia,wayne",54099
+"west virginia","webster","west virginia,webster",54101
+"west virginia","wetzel","west virginia,wetzel",54103
+"west virginia","wirt","west virginia,wirt",54105
+"west virginia","wood","west virginia,wood",54107
+"west virginia","wyoming","west virginia,wyoming",54109
+"wisconsin","adams","wisconsin,adams",55001
+"wisconsin","ashland","wisconsin,ashland",55003
+"wisconsin","barron","wisconsin,barron",55005
+"wisconsin","bayfield","wisconsin,bayfield",55007
+"wisconsin","brown","wisconsin,brown",55009
+"wisconsin","buffalo","wisconsin,buffalo",55011
+"wisconsin","burnett","wisconsin,burnett",55013
+"wisconsin","calumet","wisconsin,calumet",55015
+"wisconsin","chippewa","wisconsin,chippewa",55017
+"wisconsin","clark","wisconsin,clark",55019
+"wisconsin","columbia","wisconsin,columbia",55021
+"wisconsin","crawford","wisconsin,crawford",55023
+"wisconsin","dane","wisconsin,dane",55025
+"wisconsin","dodge","wisconsin,dodge",55027
+"wisconsin","door","wisconsin,door",55029
+"wisconsin","douglas","wisconsin,douglas",55031
+"wisconsin","dunn","wisconsin,dunn",55033
+"wisconsin","eau claire","wisconsin,eau claire",55035
+"wisconsin","florence","wisconsin,florence",55037
+"wisconsin","fond du lac","wisconsin,fond du lac",55039
+"wisconsin","forest","wisconsin,forest",55041
+"wisconsin","grant","wisconsin,grant",55043
+"wisconsin","green","wisconsin,green",55045
+"wisconsin","green lake","wisconsin,green lake",55047
+"wisconsin","iowa","wisconsin,iowa",55049
+"wisconsin","iron","wisconsin,iron",55051
+"wisconsin","jackson","wisconsin,jackson",55053
+"wisconsin","jefferson","wisconsin,jefferson",55055
+"wisconsin","juneau","wisconsin,juneau",55057
+"wisconsin","kenosha","wisconsin,kenosha",55059
+"wisconsin","kewaunee","wisconsin,kewaunee",55061
+"wisconsin","la crosse","wisconsin,la crosse",55063
+"wisconsin","lafayette","wisconsin,lafayette",55065
+"wisconsin","langlade","wisconsin,langlade",55067
+"wisconsin","lincoln","wisconsin,lincoln",55069
+"wisconsin","manitowoc","wisconsin,manitowoc",55071
+"wisconsin","marathon","wisconsin,marathon",55073
+"wisconsin","marinette","wisconsin,marinette",55075
+"wisconsin","marquette","wisconsin,marquette",55077
+"wisconsin","milwaukee","wisconsin,milwaukee",55079
+"wisconsin","monroe","wisconsin,monroe",55081
+"wisconsin","oconto","wisconsin,oconto",55083
+"wisconsin","oneida","wisconsin,oneida",55085
+"wisconsin","outagamie","wisconsin,outagamie",55087
+"wisconsin","ozaukee","wisconsin,ozaukee",55089
+"wisconsin","pepin","wisconsin,pepin",55091
+"wisconsin","pierce","wisconsin,pierce",55093
+"wisconsin","polk","wisconsin,polk",55095
+"wisconsin","portage","wisconsin,portage",55097
+"wisconsin","price","wisconsin,price",55099
+"wisconsin","racine","wisconsin,racine",55101
+"wisconsin","richland","wisconsin,richland",55103
+"wisconsin","rock","wisconsin,rock",55105
+"wisconsin","rusk","wisconsin,rusk",55107
+"wisconsin","sauk","wisconsin,sauk",55111
+"wisconsin","sawyer","wisconsin,sawyer",55113
+"wisconsin","shawano","wisconsin,shawano",55115
+"wisconsin","sheboygan","wisconsin,sheboygan",55117
+"wisconsin","st croix","wisconsin,st croix",55109
+"wisconsin","taylor","wisconsin,taylor",55119
+"wisconsin","trempealeau","wisconsin,trempealeau",55121
+"wisconsin","vernon","wisconsin,vernon",55123
+"wisconsin","vilas","wisconsin,vilas",55125
+"wisconsin","walworth","wisconsin,walworth",55127
+"wisconsin","washburn","wisconsin,washburn",55129
+"wisconsin","washington","wisconsin,washington",55131
+"wisconsin","waukesha","wisconsin,waukesha",55133
+"wisconsin","waupaca","wisconsin,waupaca",55135
+"wisconsin","waushara","wisconsin,waushara",55137
+"wisconsin","winnebago","wisconsin,winnebago",55139
+"wisconsin","wood","wisconsin,wood",55141
+"wyoming","albany","wyoming,albany",56001
+"wyoming","big horn","wyoming,big horn",56003
+"wyoming","campbell","wyoming,campbell",56005
+"wyoming","carbon","wyoming,carbon",56007
+"wyoming","converse","wyoming,converse",56009
+"wyoming","crook","wyoming,crook",56011
+"wyoming","fremont","wyoming,fremont",56013
+"wyoming","goshen","wyoming,goshen",56015
+"wyoming","hot springs","wyoming,hot springs",56017
+"wyoming","johnson","wyoming,johnson",56019
+"wyoming","laramie","wyoming,laramie",56021
+"wyoming","lincoln","wyoming,lincoln",56023
+"wyoming","natrona","wyoming,natrona",56025
+"wyoming","niobrara","wyoming,niobrara",56027
+"wyoming","park","wyoming,park",56029
+"wyoming","platte","wyoming,platte",56031
+"wyoming","sheridan","wyoming,sheridan",56033
+"wyoming","sublette","wyoming,sublette",56035
+"wyoming","sweetwater","wyoming,sweetwater",56037
+"wyoming","teton","wyoming,teton",56039
+"wyoming","uinta","wyoming,uinta",56041
+"wyoming","washakie","wyoming,washakie",56043
+"wyoming","weston","wyoming,weston",56045
